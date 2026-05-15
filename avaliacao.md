@@ -19,7 +19,13 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: O processo de desenvolvimento de um software é um conjunto de atividades relacionadas 
+que levam a produção de um produto se software usando um exemplo de processo generico:
+especificação: o que o sistema deve fazer
+projeto: organização e codificação
+validação: checar se atende o cliente
+evolução: mudanças para novas demandas
+ele tem objetivo de minimizar complexidade, atencipar mudanças e garantir padrões
 ```
 ---
 
@@ -33,7 +39,7 @@ Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: Transparencia
 ```
 ---
 
@@ -42,7 +48,10 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3:  Product backlog é todo o escopo que o cliente solicitou e o PO cadastrou, ou seja,
+vamos ter historias lá que não estão detalhadas / completas, ele é ordenado de forma emergente
+(mais acima, prioritarios). Já o sprint backlog vai pegar uma fatia dessas historias 
+cadastradas no product backlog e fará um contrato dizendo que tudo que está ali será feito dentro da sprint 
 ```
 ---
 
@@ -56,7 +65,7 @@ Qual o principal objetivo de uma Sprint?
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -66,6 +75,12 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
+Epico: é a funcionalidade como um todo, como se fosse o "pedaço maior" nele vamos ter o que é a funcionalidade,
+ como fazer etc... um exemplo seria um modulo de cadastro
+historia de usuario: As historias de usuário tem como objetivo entregar valor, elas são o "pedaço menor" nela 
+que vamos nos basear para fazer uma parte da atividade. um exemplo seria fazer uma tela de login com validações 
+Tarefa:A tarefa está dentro de uma HU, e ela é um pedaço pequeno que faz parte da HU, onde podemos dizer o que vai 
+ser feito tecnicamente como por exemplo, na tela de login deve ter um formulario que valida email
 ```
 ---
 
