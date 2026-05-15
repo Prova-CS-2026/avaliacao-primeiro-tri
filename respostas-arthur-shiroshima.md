@@ -28,12 +28,12 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [x] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: [x] Transparência
 ```
 ---
 
