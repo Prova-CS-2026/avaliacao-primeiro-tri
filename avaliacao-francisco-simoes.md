@@ -98,11 +98,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -111,7 +111,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: e a parte de configurar o seu repusitorio, onde se coloca as permisoes, bloqueia push direta para branch especificas e etc
 ```
 ---
 
@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: seria a organização, o quadro permite uma maior autonomia da equipe, alem de definir bem o que possivelmente sera implementa, o que esta para ser implementado, o que esta sendo desenvolvido e por quem, e o que ja foi implementado
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: trocar a branch que vc esta, sempre que clonado vc estara na branch principal, emtão para poder acessar a sua branch deve-se fazer este comando
 ```
 ---
 
@@ -142,11 +142,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -155,7 +155,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: O salvamento de versoes, a cada commit vc tem certeza que esta salvo e que pode retornar a qualquer momento a ela
 ```
 ---
 
@@ -164,12 +164,12 @@ Resposta Questão 13:
 Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
-- [ ] Programar todas as funcionalidades
+- [x] Programar todas as funcionalidades
 - [ ] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Como respondido anteriormente a branch e uma ramifição, que sera alterada dado o seu proposito, e depois de finalizar o que tinha para fazer, pode-se fazer o merge, que seria a fusão de branch, então se eu tenho uma branch de uma pagina de login, pos terminar eu vou pedir para fazer um merge com a dev, assim passado todos os commits para a linha temporal da dev e os arquivos
 ```
 ---
 
