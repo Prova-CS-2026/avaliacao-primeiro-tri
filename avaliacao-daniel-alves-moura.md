@@ -28,7 +28,7 @@ Resposta Questão 1: É uma sequência de ações e etapas executadas com o obje
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [x] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
@@ -42,7 +42,8 @@ Resposta Questão 2: Transparência
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: Product Backlog possui todos os épicos e histórias de usuário descrevendo o valor que deve ser gerado e incrementado no produto final. Apenas o Product Owner deverá alterar o Product Backlog pois é ele quem tem contato direto com os Stakeholders e conhece integralmente o produto desejado.
+Sprint Backlog possui as histórias que descreverão o valor a ser gerado durante a sprint atual pelos desenvolvedores, que transformaram essas histórias em incrementos funcionais até o final da sprint. Um Product Backlog alimentará diversos Sprint Backlogs.
 ```
 ---
 
@@ -51,12 +52,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [x] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -65,7 +66,7 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Épico é uma descrição de uma parte ampla e pouco detalhada do produto. Um épico é dividido em uma ou mais histórias de usuário que descrevem um valor a ser gerado ao épico, e consequentemente, ao produto. Uma história de usuário possui diversas 
 ```
 ---
 
