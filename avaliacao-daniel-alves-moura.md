@@ -89,7 +89,7 @@ Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é uma ramificação da linha de desenvolvimento original que acontece simutaneamente a outras onde será desenvolvido os novos incrementos antes de serem enviados para a linha principal. 
 ```
 ---
 
@@ -99,11 +99,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -112,7 +112,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: É o processo de criação e atualização das definições da área de armazenamento compartilhado de versões, ou seja, do repositório.
 ```
 ---
 
