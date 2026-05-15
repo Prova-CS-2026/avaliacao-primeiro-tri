@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: Organização, afinal é possivel de ver oque cada um da equipe está fazendo, oque será na sprint e quais tarefas ainda estão liberadas para serem feitas
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: cria e muda automaticamente para a branch criada, no exemplo acima, cria a "minha-branch", e automaticamente muda para ela 
 ```
 ---
 
@@ -142,11 +142,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12:  sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -155,7 +155,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Para facilitar a correção dos projetos, por exemplo se eu fiz um só commit e ele está cheio de erros é muito mais dificil de achar onde aquele erro surgiu, mas se eu fiz varios commits e 1 deles apresenta erro, é mais facil de corrigir e identificar, tanto para o dev quanto para o Scrum master
 ```
 ---
 
@@ -165,11 +165,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [x] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Branch é uma codeline dirente da main line, e o merge é a ação de juntar duas codelines
 ```
 ---
 
@@ -201,5 +201,12 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+git clone repositorio
+git checkout -b minha-branch
+
+
+
+
 ```
 ---
