@@ -66,7 +66,7 @@ Resposta Questão 4: Entregar incremento funcional do produto
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: Épico é uma descrição de uma parte ampla e pouco detalhada do produto. Um épico é dividido em uma ou mais histórias de usuário que descrevem um valor a ser gerado ao épico, e consequentemente, ao produto. Uma história de usuário possui diversas 
+Resposta Questão 5: Épico é uma descrição de uma parte ampla e pouco detalhada do produto. Um épico é dividido em uma ou mais histórias de usuário que descrevem um valor a ser gerado ao épico, e consequentemente, ao produto. Uma história de usuário possui diversas tarefas que são funcionalidades necessárias para produzir o valor descrito pela história de usuário.
 ```
 ---
 
@@ -76,11 +76,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [x] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
