@@ -111,7 +111,7 @@ Resposta Questão 8: feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: O gerenciamento de configuração serve para coordenar e trackear a base de código, uma vez que um sistema muda várias vezes por dia (com commits, pushes e merges). Portanto, é necessário uma ferramenta de gestão de versionamento. Versões definitivas de componentes ajudam em repositórios de projetos compartilhados e os devs podem copiar pro seu proprio projeto.
 ```
 ---
 
@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: A vantagem seria um acompanhamento muito melhor de como o projeto está andando. Tendo uma organização em quadros modulares, você consegue facilmente identificar o que precisa de atenção e também organizar e priorizar melhor o que precisa ser feito. Não só em desenvolvimento de software, mas em qualquer projeto SCRUM.
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Troca (caso esteja em uma branch diferente) a branch para a designada no comando. Ao fazer o checkout, você já consegue utilizar sua área de trabalho como sandbox para quebrar, modificar ou remover funcionalidades no código sem que o snapshot que está disponível no repositório seja afetado. Ao commitar e pushar, não irá alterar nada que não seja da sua branch.
 ```
 ---
 
@@ -142,11 +142,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [X] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -155,7 +155,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Os commits requentes ajudam a trackear melhor o progresso da sua tarefa e também permite com que sejam identificados bugs mais facilmente. Ao ter esse gerenciamento do histórico de alteração da codeline, você consegue voltar atrás muito mais facilmente em decisões que possa ter se arrependido ou então fazer um pinpoint de onde os problemas que ocasionaram um bug começaram a correr. Existe MUITO mais coisas importantes, mas essa sem dúvidas é a mais.
 ```
 ---
 
@@ -165,7 +165,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [X] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: O merging pega uma codeline secundária e funde (merge commit) na baseline. A branch cria uma bifurcação da baseline, criando uma linha temporal alternativa para o desenvolvimento de uma task. A diferença é clara: o merging é o passo final onde você junta as branches (codelines independentes) em uma mainline só. O branching só cria outra codeline independente para que possa ser utilizado posteriormente em um merge.
 ```
 ---
 
@@ -200,6 +200,6 @@ Na resposta:
 - considere que a branch pode ser criada tanto localmente quanto pela interface do GitHub.
 
 ```text
-Resposta Questão 16: 
+Resposta Questão 16: 1. git clone <<baseline>> 2. git branch -b sua-branch 3. git add -> git commit -m "tipo(opcional): descrição do que esse commit resolve" -> git push 
 ```
 ---
