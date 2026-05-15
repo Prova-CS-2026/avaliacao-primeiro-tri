@@ -6,11 +6,12 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Eliandro Gomes da Silva
 
-Matrícula:
+Matrícula: 20241PVAI10030027
 
-Branch:
+Branch: avaliacao-eliandro-gomes
+```
 
 ---
 
@@ -19,7 +20,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: O processo de desenvolvimento de software é e o como e o por que de recursos utilizados para a produção de um software. Indo das ideias do cliente ao método de escolha para transcrever essas ideias, como o PO no scrum. Indo para a escolhas de como fazer e programar sendo SCRUM ou o XP. Até a implementação. São essas escolhas, passos, ferramentas, frameworks e etc que são utilizados ao longo do processo.
 ```
 ---
 
@@ -28,12 +29,12 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [x] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: Transparência
 ```
 ---
 
@@ -42,7 +43,9 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: Product Backlog é tudo aquilo que se foi pedido e idealizado de se estar no produto, não necessáriamente implicando que aquilo estará de fato no produto final, mas que foi em algum momento almejado estar, nele pode se defirnir a prioridade dos pedidos para que os essenciais sejam de fato encaminhados para o Sprint Backlog.
+
+O Sprint backlog já contém um número menor escolhidos para que sejam garantido a entrega dentro de determinada data. O time faz uma escolha dos items (conselhando os mais priorizados do product backlog) e com essa escolha os encaminha para o sprint backlog. esses por si possuem uma garantia que durante op tempo de duração daquela sprint serão entregues ao final agregando mais no produto.
 ```
 ---
 
@@ -51,12 +54,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [x] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -65,7 +68,11 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Um épico é uma grande parte que geralmente leva messes pra ser pronta. Ele engloba todo um contexto significativo e que dele pode ser gerado uma ou mais histórias de usuário que derivam dessa épico.
+
+Agora, a história de usuário é justamente como o próprio nome diz, ela descreve uma história que o usuário tem, mostrando como um ATOR diz aquilo que ele QUER ou PRECISA dizendo o RAZAO para tal.
+
+Tendo essa história do usuário são geradas as Tarefas, que são ações que deverão ser tomadas seja para completar o pedido da história do usuário ou ações que serão tomadas durante o complete da história.
 ```
 ---
 
