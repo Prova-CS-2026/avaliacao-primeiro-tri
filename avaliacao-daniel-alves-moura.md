@@ -121,7 +121,7 @@ Resposta Questão 9: É o processo de criação e atualização das definições
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: O uso do kanban facilita significativamente o trabalho em equipe pois cada desenvolvedor sabe exatamente o que precisa ser desenvolvido, o que já está sendo desenvolvido e por quem, e o que já foi desenvolvido. Em outras palavras, possibilita maior organização. 
 ```
 ---
 
@@ -133,7 +133,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Trocar para a branch "minha-branch" e passar a desenvolver nela.
 ```
 ---
 
@@ -143,11 +143,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -156,7 +156,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Mantem um histórico atualizado de quais mudanças foram feitas em quais momentos, garante que suas mudanças não sejam perdidas, que mudanças problemáticas possam ser revertidas e que quais mudanças causaram um erro atual pois a última mudança funcional foi próxima da versão atual com erro.
 ```
 ---
 
