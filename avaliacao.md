@@ -133,7 +133,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Altera a minha branch atual pela branch 'minha-branch'
 ```
 ---
 
@@ -143,11 +143,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [X] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -156,7 +156,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: commitar em maior frequência mantém os commits menores, se commitamos com menor frequência, muito provavelmente cada commit carregará muitas alterações de uma única vez, o que não é seguro de se fazer.
 ```
 ---
 
