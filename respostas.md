@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Murilo Rolim
 
 Matrícula:
 
-Branch: 
+Branch: Murilo
 
 ---
 
@@ -28,7 +28,7 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [x] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
@@ -39,9 +39,10 @@ Resposta Questão 2: Transparência
 
 # Questão 3
 
+Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: Product backlog são todos épicos e historias de usuario mesmo aquelas que ainda não estão disponiveis para desenvolvimento, e Sprint Backlog é aquilo que já saiu do product backlog e deve ser desenvolvido no decorer da sprint
 ```
 ---
 
@@ -50,12 +51,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [x] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4:
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -64,7 +65,7 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Épico é uma grande fatia do produto, HU são especificadas em itens para se transformarem em um incremento do produto, e as tarefas são esses itens
 ```
 ---
 
@@ -74,11 +75,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [x] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -87,7 +88,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é uma codeline derivada da base line
 ```
 ---
 
@@ -97,11 +98,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
