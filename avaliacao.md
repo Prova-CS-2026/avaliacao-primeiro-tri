@@ -6,12 +6,12 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Francisco Simoes de Oliveira
 
-Matrícula:
+Matrícula: 20241PVAI10030033
 
-Branch:
-
+Branch: https://vscode.dev/github/Prova-CS-2026/avaliacao-primeiro-tri/tree/francisco-prova
+```
 ---
 
 # Questão 1
@@ -19,7 +19,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: Processo de Desenvolvimento e o que dita como sera feito algo, de todas as estapas 
 ```
 ---
 
