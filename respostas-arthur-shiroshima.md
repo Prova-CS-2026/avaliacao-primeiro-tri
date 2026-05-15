@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Arthur Heiji Voos Shiroshima
 
-Matrícula:
+Matrícula: 
 
-Branch:
+Branch: avaliacao-arthur-shiroshima
 
 ---
 
