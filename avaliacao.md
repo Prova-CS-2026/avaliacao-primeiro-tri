@@ -3,14 +3,14 @@
 
 # avaliacao.md
 
-```md
+
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Luan Gabriel da Silva Freitas
 
-Matrícula:
+Matrícula: 20241PVAI10030007
 
-Branch:
+Branch: avaliacao-luan004
 
 ---
 
@@ -28,12 +28,12 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [x] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2:  Transparência
 ```
 ---
 
@@ -42,7 +42,8 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: O Product Backlog contém as atividades correspondentes ao desenvolvimento de todo o projeto, já a Sprint Backlog contém apenas as atividades que serão desenvolvidas durante a sprint.
+Inicialmentes as tarefas surgem no Product Backlog e vão sendo movidas ao Sprint Backlog. 
 ```
 ---
 
@@ -51,12 +52,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [X] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
