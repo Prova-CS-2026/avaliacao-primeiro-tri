@@ -76,11 +76,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [x] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -89,7 +89,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é uma ramificação de um repositório. Quando trabalhos com multiplos desenvolvedores, é invíavel que todos os devs, mesmo que não estejam trabalhando na mesma atividade, possam alterar a mesma branch, isso causaria muitos conflitos de alteração. Dividir o repositório em branchs soluciona esse problema pois permite que um desenvolvedor possa realizar alterações sem afetar diretamente o que uma outra pessoa está desenvolvendo.
 ```
 ---
 
@@ -99,11 +99,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -121,7 +121,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: O Kanban permite que a equipe tenha uma representação visual do estado atual do desenvolvimento do projeto. Por exemplo, é possível verificar o quão perto estamos do fim do desenvolvimento do projeto vendo a quantidade de itens que ainda existem no product backlog pelo quadro kanban.
 ```
 ---
 
