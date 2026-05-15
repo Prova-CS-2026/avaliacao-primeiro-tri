@@ -88,7 +88,7 @@ Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: a criação de uma versão diferente do código base. Serve para evitar o comprometimento do código base em futuras alterações locais.
 ```
 ---
 
@@ -102,7 +102,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -111,7 +111,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: gerencimento das diferentes versões do software.
 ```
 ---
 
@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: melhor organização e observação do fluxo de desenvolvimento do software.
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: criar e trocar pra uma branch nova.
 ```
 ---
 
@@ -146,7 +146,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas.
 ```
 ---
 
