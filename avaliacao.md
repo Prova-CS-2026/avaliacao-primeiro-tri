@@ -28,12 +28,12 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [X] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: TRANSPARÊNCIA
 ```
 ---
 
@@ -42,7 +42,7 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: O Product backlog é o artefato que representa todo o domínio do produto, decorrente das observações/conversas/extrações da comunicação com as partes interessadas (cliente(s)). Tudo que for pertencente ao produto que será implementado. O Sprint Backlog é o resultado do planejamento da spring, onde o time scrum realiza uma reunião e decide o que do Product Backlog deverá ser implementado na iteração/incremento atual.
 ```
 ---
 
@@ -51,12 +51,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [X] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -65,7 +65,7 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: O Épico representa uma grande fatia do produto. Representa uma parte da camada de visão de negócio do domínio. A história de usuário representa a visão das funcionalidades do sistema através da lupa de usuário. A tarefa representa como o objetivo de alcançar a concretização da funcionalidade dessa história de usuário. Todos são interligados, a diferença é a lupa/ponto de vista que se aplica ao analisar e criar cada um desses artefatos. Como explicado, o épico representa a visão de negócio, a história de usuário representa o usuário/funcionalidade 
 ```
 ---
 
@@ -75,11 +75,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [X] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -88,7 +88,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é um clone de uma baseline com o intuito de criar uma outra codeline independente. O objetivo é isolar os riscos e modularizar o processo de desenvolvimento, permitindo que desenvolvedores trabalhem em suas tarefas sem que hajam conflitos durante o processo.
 ```
 ---
 
@@ -98,11 +98,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [X] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
