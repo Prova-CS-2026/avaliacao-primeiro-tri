@@ -51,12 +51,12 @@ Resposta Questão 3: O Product Backlog é um artefato do Scrum onde estão local
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [x] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: [x] Entregar incremento funcional do produto
 ```
 ---
 
