@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Eduardo Marionucci  
 
-Matrícula:
+Matrícula: 20241PVAI1003008
 
-Branch:
+Branch: `avaliacao-eduardo`
 
 ---
 
@@ -19,7 +19,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: Um processo de desevolvimento de software são todas etapas que percorrem durante o ciclo de vida dele. 
 ```
 ---
 
@@ -28,7 +28,7 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [X] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
@@ -42,7 +42,7 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3:  O Product Backlog compete a todas as atividades elicitadas para uma sprint, não necessáriamente entrará em desenvolvimento na primeira sprint que é elicitado, mas em algum momento ou não pode entrar em desenvolvimento. A Sprint Backlog compete a todas as atividades propostas a serem implementadas ou não dentro de uma sprint, salvo em casos que a atividade fica como dívida técnica e é passada para a próxima sprint.
 ```
 ---
 
@@ -51,12 +51,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [X] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -66,6 +66,11 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
+Os Épicos são os escopos de um incremento em uma sprint, ele compete ao escopo específico de implementação que contém outras funcionalidades aninhadas a si mesmo.
+
+As histórias de usuário, como o subtentende, são traduções técnica das necessidades do usuário dentro do seu escopo específico (épico), elas são atividades que possuem um propósito de implementação específico para gerar valor ao seu épico. 
+
+As tarefas são atividades que devem ser desempenhadas pelo desenvolvedor dentro de uma história de usuário, ela compete ao trabalho que o mesmo vai desempenhar para entregar a sua HU.
 ```
 ---
 
@@ -75,11 +80,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [X] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -88,7 +93,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Um branch é uma versão de código de um repositório git. Sua finalidade é poder funcionar como uma versão do código e fornecer um ambiente paralelo de desenvolvimento de um repositório git.
 ```
 ---
 
@@ -98,11 +103,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [X] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8:  feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -111,7 +116,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: O gerenciamento de configuração é a matriz essencial de segurança em repositório git. A configuração de um sistema é permeada pelo armazenamento de tokens e senhas importantes de comunicação pela internet. A visibilidade dessas informações podem vulnerabilizar um projeto inteiro e dar acesso a informações sigilosas. A configuração de um sistema é essencial para previnir práticas maliciosas e erros de desenvolvimento.
 ```
 ---
 
@@ -132,7 +137,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: O comando faz a criação de uma branch em um repositório git a partir da branch atual, seguido pela troca imediata para a branch criada.
 ```
 ---
 
