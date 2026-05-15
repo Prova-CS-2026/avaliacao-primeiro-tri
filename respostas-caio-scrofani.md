@@ -28,7 +28,7 @@ Resposta Questão 1: Um Processo de Desenvolvimento de Software se refere a toda
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [X] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
@@ -51,12 +51,12 @@ Resposta Questão 3: O Product Backlog é a lista de todas as tarefas que devem 
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [X] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -65,7 +65,7 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Um épico é uma parcela significativa do produto, geralmente se referindo a um tema ou conjunto de funcionalidades relativamente independente do resto do projeto. Uma história de usuário é a descrição de uma interação que um usuário em potencial gostaria de ter ao utilizar o produto, e serve como uma orientação detalhada para o desenvolvimento de uma funcionalidade do produto. Uma tarefa é uma diretriz que um desenvolvedor deve cumprir para que um dado Épico ou História de Usuário possa ser entregue. Épicos contém tarefas abrangentes que geralmente podem gerar múltiplas Histórias de Usuários, e estas Histórias terão tarefas mais específicas que orientam a implementação da História e do Épico que a contém. 
 ```
 ---
 
@@ -75,11 +75,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [X] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
