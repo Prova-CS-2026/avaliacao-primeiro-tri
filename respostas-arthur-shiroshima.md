@@ -42,7 +42,7 @@ Resposta Questão 2: [x] Transparência
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: O Product Backlog é um artefato do Scrum onde estão localizadas os itens de responsabilidade do PO, composto das histórias de usuários e épicos extraídos de requisitos do cliente. Já o Sprint Backlog se trata de um artefato que é de responsabilidade geral, onde é inserido o que será trabalhado naquela sprint, sendo retirado do Product Backlog e adicionado no Sprint Backlog.
 ```
 ---
 
