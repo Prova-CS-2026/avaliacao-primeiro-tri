@@ -82,11 +82,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [x] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -95,7 +95,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é uma ramificação do código que traz consigo tudo aquilo do código (ou branch) de origem mas de modo que o trabalho feito nela não interfira com o código de ondela ela veio. Sua finalidade é poder trabalhar e realizar alterações em um ambiente controlado sem que a modificação de diversas pessoas entrem em conflito, junto também ao versionamento, onde nela fica salvo todo o histórico de alterações pra aquilo que ela foi criada para fazer.
 ```
 ---
 
@@ -105,11 +105,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -118,7 +118,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: É o gerenciamento de mud. durante o desenvolvimento. Indo dos Repositórios sendo o baco de dados com as versões, a área de trabalho. a baseline com a versão MAIN dos componentes. Codeline sendo as BRANCHS, o branching sendo a criação dessas codelines (branches) a partir de outras, o merging sendo a fusão das branches e o release sendo a versão entregue aos usuários.
 ```
 ---
 
@@ -127,7 +127,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10:  O Kanban facilita a organização do processo de desenvolvimento das tarefas. Nele podemos ver o que pode ser feito na sprint, quem pegou tal tarefa, quem está trabalhando e o que já foi feito e por quem. Ele proporciona essa rastreabilidade para o estado das issues.
 ```
 ---
 
