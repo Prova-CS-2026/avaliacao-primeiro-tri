@@ -66,7 +66,8 @@ Resposta Questão 4: Entregar incremento funcional do produto
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Um épico é uma atividade que tem o objetivo de implementar um detemrinado módulo da aplicação, um épico deve ter uma ou mais histórias de usuários.
+Uma história de usuário é parte de um épico, ela é descreve o que deve ser o que, porque e para quem deve ser implementado.
 ```
 ---
 
@@ -166,11 +167,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [X] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -179,7 +180,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Branch é uma ramificação de um repositório, já o merge é o procedimento de unir as alterações de uma branch em outra.
 ```
 ---
 
@@ -202,5 +203,17 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+1. Clonar o repositório
+`git clone ...`
+
+2. Criar uma nova branch localmente
+3. Desenvolver o projeto na branch
+4. Commitar as alterações
+`git commit -m "feat: mensagem"`
+
+5. Publicar a branch e os commits
+`git push`
+
 ```
 ---
