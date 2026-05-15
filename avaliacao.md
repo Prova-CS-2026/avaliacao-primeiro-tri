@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Daniel Alves Moura
 
-Matrícula:
+Matrícula: 20241PVAI10030023
 
-Branch:
+Branch: daniel-alves-moura
 
 ---
 
@@ -19,7 +19,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: É uma sequência de ações e etapas executadas com o objetivo de produzir um software completo.
 ```
 ---
 
@@ -33,7 +33,7 @@ Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: Transparência
 ```
 ---
 
