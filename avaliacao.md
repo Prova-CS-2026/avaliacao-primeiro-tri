@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Isaque Carvalho Xavier
 
-Matrícula:
+Matrícula: 20241PVAI10030012
 
-Branch:
+Branch: avaliacao-isaque
 
 ---
 
@@ -19,7 +19,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: O processo de desenvolver software não é apenas sair programando, e sim pensar em qual seria a maneira mais viável de entregar o produto de acordo com as necessidades do usuário. Após a elicitação dos requisitos, é realizado um planejamento sobre como esse software dewve ser desenvolvido. Após isso, dá-se início ao seu desenvolvimento. Após o desenvolvimento ser finalizado, são feitos testes e quando estiverem testados e validados, o produto será entregue. E mantendo atualizações e manutenções desse software mesmo após a entrega ao usuário. 
 ```
 ---
 
