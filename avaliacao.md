@@ -94,7 +94,7 @@ Qual alternativa representa corretamente uma História de Usuário?
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -103,7 +103,12 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é uma ramificação do código ela vai documentar
+as alterações que fizemos no nosso projeto, criamos branch para que cada
+dev possa trabalhar sem gerar conflito com os demais, e para que consiga 
+salvar os codigos(atráves de commits e enviando ao remoto) por meio disso
+podemos versionar nosso codigo de maneira que ele fique seguro, organizado
+e produtivo
 ```
 ---
 
@@ -117,7 +122,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -126,7 +131,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: O gerenciamento de configuração são 
 ```
 ---
 
@@ -135,7 +140,10 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: O quadro Kanban é um quadro do fluxo de trabalho, ele vai
+limita o trabalho em progresso para evitar gargalos WIP(Work in Progress)
+Além do mais conseguimos acompanhar visualmente como estão a progressão de 
+funcionalidades
 ```
 ---
 
@@ -147,7 +155,8 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11:  esse comando irá criar uma nova branch(-b) 
+a partir da branch atual, com o nome minha-branch
 ```
 ---
 
@@ -161,7 +170,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
