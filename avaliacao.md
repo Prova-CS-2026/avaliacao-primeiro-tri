@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Brayan Barros Teixeira Cordeiro Silva
 
-Matrícula:
+Matrícula: 20241PVAI10030043
 
-Branch:
+Branch: avaliacao-brayan-barros
 
 ---
 
@@ -19,7 +19,8 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1:
+O termo "Processo de Desenvolvimento de Software" é auto-explicativo, porém não é tão simples. Desenvolver um Software sem planejamento, pode ser aterrorizante para todos os stakeholders. Para minimizar os problemas que podem surgir durante o desenvolvimento e aumentar a eficiência da entrega, o Processo de Desenvolvimento de Software evoluiu consideravelmente, envolvendo a Metodologia Scrum, Coleta de Requisitos, Planejamento de Arquitetura, Geração de Código e Disciplina.
 ```
 ---
 
@@ -28,12 +29,13 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [X] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2:
+Os pilares do Scrum são Transparência, Inspeção e Adaptação.
 ```
 ---
 
@@ -42,7 +44,8 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3:
+Product Backlog refere-se a todo o escopo planejado para o produto durante o seu desenvolvimento. Já o Sprint Backlog é uma escopo menor, selecionado do Product Backlog que é o objetivo de desenvolvimento da Sprint. 
 ```
 ---
 
@@ -51,12 +54,13 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [X] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
 Resposta Questão 4: 
+O objetivo da Sprint é entregar incremento funcional do produto.
 ```
 ---
 
