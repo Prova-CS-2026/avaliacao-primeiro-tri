@@ -33,7 +33,7 @@ Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: Transparência
 ```
 ---
 
@@ -56,7 +56,7 @@ Qual o principal objetivo de uma Sprint?
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -79,7 +79,7 @@ Qual alternativa representa corretamente uma História de Usuário?
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -102,7 +102,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Ele cria e já entra na branch no mesmo momento. 
 ```
 ---
 
@@ -146,7 +146,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -155,7 +155,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Durante o desenvolvimento, é importante manter uma frequencia de commit para garantir que o seu trabalho não seja perdido. Por exemplo: Você está desenvolvendo a 4h sem pausas, e não realizou nenhum commit você corre um grande risco desse trabalho de 4h ser perdido, ou pensa também, você trabalha por 4h e realiza um commit gigantesco, isso é muito ruim para legibilidade e também não seguiria os padrões de commit.
 ```
 ---
 
@@ -169,7 +169,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Um merge é uma mesclagem entre duas branchs, sendo ela, a origin ou a base. Uma branch é um local isolado, que pode ser criado com base em outras branch mais atualizadas, dessa forma você garante que está atualizado com a branch main geralmente, e pode fazer um trabalho separado e depois mergia com a branch main novamente. 
 ```
 ---
 
