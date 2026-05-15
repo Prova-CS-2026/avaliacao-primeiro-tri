@@ -200,6 +200,6 @@ Na resposta:
 - considere que a branch pode ser criada tanto localmente quanto pela interface do GitHub.
 
 ```text
-Resposta Questão 16: 1. git clone <<baseline>> 2. git branch -b sua-branch 3. git add -> git commit -m "tipo(opcional): descrição do que esse commit resolve" -> git push 
+Resposta Questão 16: 1. git clone <<baseline>> 2. git branch -b sua-branch 3. git add -> git commit -m "tipo(opcional): descrição do que esse commit resolve" -> git push -> fazer o pull request.
 ```
 ---
