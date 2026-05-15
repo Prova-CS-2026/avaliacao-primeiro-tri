@@ -178,7 +178,7 @@ Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: O merge é uma ação de mesclagem que se opera entre duas branches, um merge consiste na análise e mesclagem dos históricos de cada branch, considerando adições remoções e mudanças de arquivos, a masclagem deles e caso não haja conflitos, a atualização da branch onde o merge ocorreu. A branch como operando de um merge é um conjunto nomeado de commits, formando um histórico paralelo a outra branch. 
 ```
 ---
 
