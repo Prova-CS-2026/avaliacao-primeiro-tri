@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Francisco Simoes de Oliveira
 
-Matrícula: 
+Matrícula: 20241PVAI10030033
 
-Branch: 
+Branch: https://vscode.dev/github/Prova-CS-2026/avaliacao-primeiro-tri/tree/francisco-prova
 ```
 ---
 
@@ -19,7 +19,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: Processo de Desenvolvimento e o que dita como sera feito algo, de todas as estapas 
 ```
 ---
 
@@ -28,12 +28,12 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [x] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: Transparência
 ```
 ---
 
@@ -42,7 +42,7 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: Product Backlog são as historias de todo o projeto onde o unico a mecher e o PO, Já a sprint Backlog e composta por historias retiradas do product Backlog que serão implementadas na sprint atual
 ```
 ---
 
@@ -51,12 +51,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [x] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -65,7 +65,7 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5:
+Resposta Questão 5: Epico e um grande recorte do projeto e sera composto por historias, uma historia e uma parte de um epico para a incrementação de uma funcionalidade, e a tarefa são requisitos para a comclusão da historia
 ```
 ---
 
@@ -75,11 +75,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [x] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6:  COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -88,7 +88,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: E uma "linha", seria ramificaçoes que são usados para serem alterados sem mecher nas branch principais, e so depois de validas serão fundidas por meio de merge em sua branch principal
 ```
 ---
 
