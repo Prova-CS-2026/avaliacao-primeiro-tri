@@ -65,7 +65,7 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Épico é a funcionalidade num geral. Ela descreve de maneira bem objetiva o contexto daquela atividade. Uma História de usuário, é uma parte mais detalhada da épico, onde descreve os critérios de aceitação e as tarefas, que são as atividades ou funcionalidades a serem desenvolvidas naquela história de usuário.
 ```
 ---
 
@@ -88,7 +88,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Um branch é uma subspasta do repositório, a finalidade dela é trazer organização, agilidade e trabalho simultaneo. 
 ```
 ---
 
