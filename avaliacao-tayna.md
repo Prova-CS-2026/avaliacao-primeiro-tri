@@ -19,7 +19,7 @@ Branch: feat/adicionar-respostas-prova-cs
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: Um processo de desenvolvimento de software é um conjunto de atividades, praticas e métodos utilizados para planejar, criar, testar e evoluir um sistema.
 ```
 ---
 
@@ -28,7 +28,7 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [X] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
@@ -42,7 +42,7 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: O Product Backlog contém todas as histórias de usuário que foram adicionadas em qualquer momento pelo PO. Agora Sprint Backlog entram todas as atividades que foram definidas com o cliente a serem entregar nessa sprint/pacote.
 ```
 ---
 
@@ -51,7 +51,7 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [X] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
@@ -75,7 +75,7 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [X] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
@@ -98,7 +98,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
@@ -142,7 +142,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
@@ -165,7 +165,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [x] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
