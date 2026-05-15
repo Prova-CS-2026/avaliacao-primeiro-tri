@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Diego Matheus de Carvalho Gonçalves
 
-Matrícula:
+Matrícula: 20241PVAI10030028
 
-Branch:
+Branch: avaliacao-diego-matheus
 
 ---
 
