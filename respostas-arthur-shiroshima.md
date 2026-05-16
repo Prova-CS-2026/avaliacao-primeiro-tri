@@ -205,5 +205,39 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+# Clonagem de um repositório remoto;
+
+1. git clone <URL>
+Copia um repositório remoto para a sua máquina local, no diretório onde foi rodado o comando
+
+# Criação de uma branch individual;
+
+2. git checkout -b "nome-da-branch" 
+Realiza a criação de uma branch entitulada "nome-da-branch" e seleciona ela para desenvolvimento. Pode-se criar uma branch com git branch "nome-da-branch", mas o git ainda estaria selecionando a branch na qual você criou a ramificação (branch mãe)
+
+# Desenvolvimento na branch criada;
+
+3. git status
+Mostra o status atual das mudanças realizadas. Útil para ver o que foi alterado no desenvolvimento
+
+4. git diff
+Mostra as diferenças entre os arquivos alterados com o último commit
+
+5. git add <nome-do-arquivo>
+Seleciona os arquivos alterados (exibidos no git status) para a área de staging, onde um commit poderá ser feito
+
+# Registro das alterações realizadas;
+
+6. git commit -m "tag(exemplo): Insira o nome do commit aqui"
+Salva os arquivos que foram selecionados com o "git add" em um commit, que pode ser acessado posteriormente para visualização das alterações
+
+7. git diff HEAD~ HEAD
+Mostra a diferença entre o commit anterior com o commit feito agora
+
+# Envio das alterações para o servidor remoto.
+
+8. git push <nome do remote> <branch para ser enviada>
+Sincroniza os commits realizados na branch local selecionada no comando com o relote selecionado.
 ```
 ---
