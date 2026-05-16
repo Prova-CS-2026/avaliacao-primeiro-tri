@@ -19,7 +19,7 @@ Branch: feat/adicionar-respostas-prova-cs
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: Um processo de desenvolvimento de software é um conjunto de atividades, praticas e métodos utilizados para planejar, criar, testar e evoluir um sistema.
+Resposta Questão 1: Um processo de desenvolvimento de software é um conjunto de atividades, práticas e métodos utilizados para planejar, criar, testar e evoluir um sistema.
 ```
 ---
 
@@ -42,7 +42,7 @@ Resposta Questão 2: Transparência
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: O Product Backlog contém todas as histórias de usuário que foram adicionadas em qualquer momento pelo PO. Agora Sprint Backlog entram todas as atividades que foram definidas com o cliente a serem entregar nessa sprint/pacote.
+Resposta Questão 3: O Product Backlog contém todas as histórias de usuário que foram adicionadas em qualquer momento pelo PO. Agora Sprint Backlog entram todas as atividades que foram definidas com o cliente a serem entregues nessa sprint/pacote.
 ```
 ---
 
@@ -88,7 +88,7 @@ Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: Um branch é uma subspasta do repositório, a finalidade dela é trazer organização, agilidade e trabalho simultaneo. 
+Resposta Questão 7: Um branch é uma subspasta do repositório, a finalidade dela é trazer organização, agilidade e trabalho simultâneo. 
 ```
 ---
 
@@ -120,7 +120,7 @@ Resposta Questão 9: São as configurações que abragem todo o processo de dese
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: O Quadro Kanban é essencial no desenvolvimento de software, é possível acompanhar todo o trabalho da equipe só visualizando esse quadro. Temos uma visão de como estão o andamento das atividades, e o que será entregue ou não. Além de facilitar o desenvolvimento das atividades. 
 ```
 ---
 
@@ -211,7 +211,6 @@ Resposta Questão 16:
 7- git add . *ou arquivos especificos que eu queria subir
 8- git commit -m "descricao do commit"
 9- git push
--  
 
 ```
 ---
