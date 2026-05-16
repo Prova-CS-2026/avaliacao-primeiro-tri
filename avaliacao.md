@@ -125,7 +125,7 @@ Resposta Questão 9: O gerenciamento de configuração é a matriz essencial de 
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: O Kanban ajuda a evidenciar as fases de cada etapa de um processo de desenvolvimento. A visualização em etapas permite com que a equipe fique ciente das atribuições de determinada atividade, a visualização de progresso do desenvolvimento, entre outros fatores positivos ao gerenciamento de equipes.
 ```
 ---
 
@@ -147,11 +147,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [X] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -160,7 +160,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: A prática da realização de commits frequentes ajuda a particionar o trabalho facilitando a inclusão de partes de trabalho de determinada funcionalidade. 
 ```
 ---
 
@@ -170,7 +170,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [X] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
@@ -183,7 +183,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: O merge é como se fosse o agrupamento de uma porção de código a uma origem, usado como uma ferramenta de união de branches, essas que são versões paralelas de código que podem ou não ser unidos a outra branch através do merge.
 ```
 ---
 
@@ -206,5 +206,35 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+Para você começar o desenvolvimento em um repositório git, uma das alternativas via terminal é executar a seguinte sequência de comandos.
+
+1. git clone https://<sua-url>.git ( A url fica disponível na interface no botão <> Code > HTTPS )
+2. git checkout -b <nome-da-branch>
+
+Dentro da sua branch,
+
+Inserir os arquivos alterados ao git:
+git add . ou git add <nome do diretorio ou arquivo>;
+ou
+use o botão "+" dentro da aba Controle de Código Fonte 
+ou 
+Envie os arquivos via interface no seu versionador git favorito
+
+
+Configurar a sua origem remota 
+git remote set-url <nome da origem (por padrão origin)> <url>
+
+Commitar as alterações
+git commit -m "<sua mensagem>"
+ou 
+Adicione uma mensagem em Alterações > Messagem (ctrl + enter) no VS Code
+ou 
+adicione a mensagem quando você já tiver sua alterações feitas dentro da interface do versionador
+
+Enviar as informações para a sua origem 
+git push -a origin
+
+
 ```
 ---
