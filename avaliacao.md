@@ -19,7 +19,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: O processo de desenvolvimento de Software aborda desde a sua idealização abordando então o primeiro contato com o cliente, as reuniões de alinhamento e extração de requisitos e funcionalidades do sistema. Aborda também as decisões arquiteturais levando em conta as necessidades/funcionalidades, e restrições como uso de uma tecnologia específica ou a integração ao sistema já existente. Aborda também a parte de estruturação do código até o entrega do produto final.
 ```
 ---
 
@@ -28,12 +28,12 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [X] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: Transparência é um dos pilares do Scrum assim como Visibilidade pois isso permite que todos tenham consciência do que esta sendo feito, quem está fazendo e impedimentos. Mantendo a equipe toda ciente do todo, dos resultados e deixando claro como a participação de cada um faz parte da criação de um produto novo.
 ```
 ---
 
@@ -43,6 +43,11 @@ Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
 Resposta Questão 3: 
+Product Backlog:
+Lista priorizada com tudo que pode ser desenvolvido, ou seja vale ressaltar que nem tudo o que existe Product Backlog vai ser de fato desenvolvido
+
+Sprint Backlog: 
+é um subconjunto do product backlog ou seja itens do product backlog que foram decididos serem desenvolvidos na sprint apos a sprint planning.
 ```
 ---
 
@@ -51,12 +56,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [X] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Sprint é o núcleo do scrum com duração de no máximo 4 semanas, onde os itens do sprint backlog serão desenvolvidos para a cada fim de sprint o ser é entregar um incremento funcional do produto.
 ```
 ---
 
@@ -66,6 +71,10 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
+Épicos são grandes fátias do produto e são criadas a partir da visão do negócio exemplo poderia ser Modulo de controle de exames.
+Histórias de usuários são partes de funcionalidades que representam a interação do usuário com aquela mesma funcionalidade, se a funcionalidade for "Consultar exames marcados" uma história de usuário mostra um contexto de interação do usuário com essa funcionalidade, com uma forma narrativa mostrando o valor, motivação e contextualização não so focando no técnico, seguindo o exemplo "Consultar exames marcados" a HU ficaria 
+"Eu como paciente que utiliza o sistema, quero poder ver os exames anexados ao meu perfil para poder ter um controle e registro".
+Uma task ela pode se devirar de uma HU (História de usuário) de uma forma mais técnica .
 ```
 ---
 
@@ -75,11 +84,12 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
 Resposta Questão 6: 
+
 ```
 ---
 
@@ -89,6 +99,7 @@ O que é uma branch no Git e qual sua finalidade?
 
 ```text
 Resposta Questão 7: 
+
 ```
 ---
 
@@ -98,11 +109,12 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
 Resposta Questão 8: 
+
 ```
 ---
 
@@ -121,6 +133,7 @@ Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de
 
 ```text
 Resposta Questão 10: 
+
 ```
 ---
 
@@ -133,6 +146,7 @@ git checkout -b minha-branch
 ```
 ```text
 Resposta Questão 11: 
+
 ```
 ---
 
@@ -142,11 +156,12 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
 Resposta Questão 12: 
+Um critério
 ```
 ---
 
