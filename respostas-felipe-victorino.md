@@ -111,7 +111,7 @@ Resposta Questão 8: feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: O gerenciamento da configuração é todas as necessidades que facam com o que o desenvolvimento aconteça segundo as preferências ditadas pelo stakeholder e necessidades de desenvolvimento, a atualização e instalação de ferramentas como um, a fromalização de métoodos como o Kanban, artefatos como a sprint.
+Resposta Questão 9: O gerenciamento da configuração é o gerenciamento de todas as necessidades e variáveis que facam com o que o desenvolvimento aconteça segundo as preferências ditadas pelo stakeholder e necessidades de desenvolvimento. A atualização e instalação de ferramentas como uma dependência do maven, a formalização de métodos como o Kanban, artefatos como a sprint todos são uma parte da configuração feita para que todos os envolvidos operem de uma maneira semelhante.
 ```
 ---
 
