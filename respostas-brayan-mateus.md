@@ -6,19 +6,19 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno:
+Aluno: Brayan Mateus da Silva de Souza.
 
-Matrícula:
+Matrícula: 2024110030042
 
 Branch:
-
+avaliacao-brayan-mateus
 ---
 
 # Questão 1
 
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
-```text
+```
 Resposta Questão 1: 
 ```
 ---
@@ -28,13 +28,14 @@ Resposta Questão 1:
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [ ] Transparência
+- [X] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2:  
 ```
+transparência..
 ---
 
 # Questão 3
@@ -44,6 +45,7 @@ Explique a diferença entre Product Backlog e Sprint Backlog.
 ```text
 Resposta Questão 3: 
 ```
+O product backlog é a lista onde está todo o produto a ser desenvolvido, já o Sprint backlog é onde fica os itens escolhidos para a sprint..
 ---
 
 # Questão 4
@@ -51,12 +53,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [x] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto..
 ```
 ---
 
@@ -66,7 +68,9 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
-```
+O épico são as funcionalidades do sistema, a visão macro do sistema e do que deve ser feito durante o período..
+As Histórias de Usúarios descrevem como cada item deve ser feito, ou acontecer, com critérios de aceitação e validações..
+As tarefas são os itens técnicos, são utilizadas após a finalização da história, mas por alguma mudança, ela é criada para fazer alterações de códigos..
 ---
 
 # Questão 6
@@ -75,11 +79,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [X] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -90,6 +94,7 @@ O que é uma branch no Git e qual sua finalidade?
 ```text
 Resposta Questão 7: 
 ```
+
 ---
 
 # Questão 8
@@ -98,11 +103,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [X] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -120,7 +125,8 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: O kaban possui vantagem principalmente na questão de organização de como será feito o desenvolvimento e 
+gerenciamento da equipe entre as tarefas..
 ```
 ---
 
@@ -142,11 +148,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [X] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas.
 ```
 ---
 
@@ -155,7 +161,8 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Os commits frequentes são importantes para salvar o progresso do desenvolvimento e 
+criar uma linha do tempo sobre o que foi criado naquele momento..
 ```
 ---
 
@@ -165,11 +172,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [X] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado.
 ```
 ---
 
@@ -178,7 +185,8 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15:  As branchs são criadas para realizar o desenvolvimento da possível tarefa ou história de usuário.
+Já o merge, ele é utilizado para juntar as branchs em um único código..
 ```
 ---
 
@@ -201,5 +209,12 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+R: git clone url do projeto..... Aqui acontece a clonagem através da URL do repositório.. 
+git checkout -b nova-branch..... a criação da branch individual..
+Realizado o desenvolvimento do código dentro dessa branch...
+git add . / git add o-projeto... Salva as alterações no Git..
+git commit -m "nome do commit"... realizado o commit dentro da branch..
+git push nome-da-branch... busca e envia a branch pro github..
+
 ```
 ---
