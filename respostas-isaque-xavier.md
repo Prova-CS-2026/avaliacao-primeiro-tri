@@ -157,3 +157,54 @@ Explique a importância de commits frequentes durante o desenvolvimento.
 Resposta Questão 13: Permite maior rastreabilidade sobre o progresso feito, podendo ir em uma alteração específica ao invés de procurar em um commit gigante.
 ```
 ---
+# Questão 14
+
+Qual alternativa representa corretamente uma atividade típica do Scrum Master?
+
+- [ ] Definir sozinho todas as tarefas
+- [ ] Programar todas as funcionalidades
+- [x] Garantir que o Scrum seja entendido e aplicado
+- [ ] Aprovar somente código front-end
+
+```text
+Resposta Questão 14: Terceira Alternativa: Garantir que o Scrum seja entendido e aplicado.
+```
+---
+
+# Questão 15
+
+Explique a diferença entre merge e branch no Git.
+
+```text
+Resposta Questão 15: Branch é apenas uma ramificação do código, o qual o desenvolvedor pode implementar o que for necessário sem alterar o código principal. Merge é a ação de acoplar as alterações de uma branch em outra, e deve ser analisado com cuidado antes de ser feito, pois um erro dessa branch pode alterar todo o código estável da outra branch.
+```
+---
+
+# Questão 16
+
+Descreva uma sequência possível de passos e comandos para realizar o fluxo de desenvolvimento utilizando Git e GitHub, considerando:
+
+- clonagem de um repositório remoto;
+- criação de uma branch individual;
+- desenvolvimento na branch criada;
+- registro das alterações realizadas;
+- envio das alterações para o servidor remoto.
+
+Na resposta:
+
+- enumere os passos;
+- apresente os comandos principais envolvidos;
+- explique brevemente a finalidade de cada etapa;
+- considere que a branch pode ser criada tanto localmente quanto pela interface do GitHub.
+
+```text
+Resposta Questão 16: 
+1 - clonar o repositório remoto para fazer alterações, sejam adições ou correções. para clonar pelo terminal, é necessário realizar o comando 'git clone nome-do-repo.git'.
+2 - entrar na pasta desse repositório, para que consiga realizar as alterações, usando o comando 'cd nome-da-pasta'.
+3 - criar sua própria branch, para que suas alterações sejam feitas separadamente do código principal, usando o comando 'git checkout -b sua-branch'.
+4 - para registrar as alterações, é necessário seguir os comandos: 
+    4.1 'git add suas/alteracoes/nessa/pasta', se necessário repita os comandos em caso de pastas diferentes. para adicionar todas as alterações, execute 'git add .'.
+    4.2 'git commit -m"ação(escopo): descrição da(s) alteração(ões)"'.
+5 - para enviar suas alterações para o servidor, caso elas não estejam registradas é necessário fazer isso primeiro. se já estiverem todas commitadas, utilize o comando 'git pull origin branch-alvo-do-envio'.
+```
+---
