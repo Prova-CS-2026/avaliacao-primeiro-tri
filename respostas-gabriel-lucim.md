@@ -85,11 +85,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [x] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -99,6 +99,8 @@ O que é uma branch no Git e qual sua finalidade?
 
 ```text
 Resposta Questão 7: 
+
+Uma branch é um banco de dados para desenvolvimento de componentes do produto, é nela onde será armazenado tudo que está sendo desenvolvido no setor que ela foi designada, por exemplo, branch de uma dashboard, nesta branch é onde será armazenado tudo que está sendo desenvolvido pelo DEV ou uma equipe de DEV que trabalham na dashboard, além de possuir meta-informações sobre as mudanças que foram feitas, branchs são utilizadas para que o desenvolvimento não aconteça direto no código original do produto, o que corre grandes riscos de ocasionar em erros fatais por um desenvolvimento tratar-se de alterações constantes. Sendo assima  branch mantém o código original seguro, enquanto todos os testes e validações são feitos na branch, para só depois de todas as verificações e e funcionalidades corretas serem implementadas, o código original ser atualizado para a versão mais recente.
 ```
 ---
 
@@ -108,7 +110,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
