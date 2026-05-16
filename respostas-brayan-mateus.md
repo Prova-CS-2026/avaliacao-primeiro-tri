@@ -21,6 +21,7 @@ Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 ```
 Resposta Questão 1: 
 ```
+O processo de desenvolvimento de software transforma uma ideia inicial em um software funcional confiável e pronto..
 ---
 
 # Questão 2
@@ -93,7 +94,9 @@ O que é uma branch no Git e qual sua finalidade?
 
 ```text
 Resposta Questão 7: 
-```
+
+Uma branch é o local onde será desenvolvido o código da tarefa específica, ela tem a finalidade de criar um espaço individual, onde após toda a 
+criação, a pessoa que fez, pode enviar para onde todos os códigos estão, evitando questão de conflitos no código final..
 
 ---
 
@@ -117,7 +120,8 @@ Explique o que é gerenciamento de configuração.
 
 ```text
 Resposta Questão 9: 
-```
+```O gerenciamento de configurações tem a responsabilidade de controlar as mudanças e manter a integridade, rastreabilidade e 
+o padrão do ciclo de vida do software..
 ---
 
 # Questão 10
@@ -138,7 +142,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Utilizado para mudar as branchs, ou restaurar arquivos.. 
 ```
 ---
 
@@ -209,12 +213,12 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
-R: git clone url do projeto..... Aqui acontece a clonagem através da URL do repositório.. 
-git checkout -b nova-branch..... a criação da branch individual..
-Realizado o desenvolvimento do código dentro dessa branch...
-git add . / git add o-projeto... Salva as alterações no Git..
-git commit -m "nome do commit"... realizado o commit dentro da branch..
-git push nome-da-branch... busca e envia a branch pro github..
+1- git clone url do projeto..... Aqui acontece a clonagem através da URL do repositório.. 
+2- git checkout -b nova-branch..... a criação da branch individual..
+3- Realizado o desenvolvimento do código dentro dessa branch...
+4- git add . / git add o-projeto... Salva as alterações no Git..
+5- git commit -m "nome do commit"... realizado o commit dentro da branch..
+6- git push nome-da-branch... busca e envia a branch pro github..
 
 ```
 ---
