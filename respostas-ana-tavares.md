@@ -11,7 +11,7 @@ Aluno: Ana Beatriz Tavares Malaquias
 Matrícula: 20241PVAI10030002
 
 Branch: avaliacao-ana-tavares
-
+```
 ---
 
 # Questão 1
@@ -19,7 +19,12 @@ Branch: avaliacao-ana-tavares
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: são todas as etapas que levam a criação de um software. 
+Começa com a extração de necessidades, o motivo por trás da criação.
+Depois para a modelação da solução, o como podemos mitigar o problema.
+Logo após surge o nascimento da equipe que será responsável pelo desenvolvimento do software.
+Nela é possível trabalhar com o framework Scrum, que visa a transparência, inspeção e adaptação da equipe.
+E todo o processo pode ser avaliado a partir de um gerenciamento de configuração que controla e registra os incrementos feitos.
 ```
 ---
 
@@ -157,7 +162,7 @@ Resposta Questão 12: O sistema deverá permitir login apenas com credenciais v�
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: com os commits frequentes, voce garante que toda a alteração que esta realizando, esta sendo salva mesmo que remotamente. caso voce necessite voltar, por conta de um erro (rollback) com os commits há essa possibilidade, por conta disso também que nasce a necessidade de commits serem atomicos, ou seja, garante que UM commit contenha apenas uma unica logica coerente de trabalho
 ```
 ---
 
