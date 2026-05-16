@@ -88,7 +88,7 @@ Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é uma instância do projeto feita para receber modificações que serão testadas e validadas com segurança antes de serem aplicadas ao projeto como um todo (nesse caso, a versão base).
 ```
 ---
 
@@ -98,11 +98,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [X] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -111,7 +111,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: Gerenciamento de configuração se refere às políticas usadas na organização, desenvolvimento, e entrega das diferentes versões de um projeto de software ao longo de toda a sua existência.
 ```
 ---
 
