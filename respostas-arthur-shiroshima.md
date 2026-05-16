@@ -65,6 +65,11 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
+- Épico se trata de um conjunto de Histórias de Usuário que conta com informações sobre o negócio da aplicação, dividindo o sistema em fatias, e normalmente sendo desenvolvido por completo em meses
+
+- História de Usuário, ou HU, compõem os casos de uso de um cliente sob determinado épico, contendo informações sobre o ator que realizará a ação, o seu objetivo e a justificativa para aquela HU. Uma HU normalmente é desenvolvida por completo em dias
+
+- Uma tarefa se trata de pontos específicos relacionados à implementação direcionados para os desenvolvedores, a fim de guia-los para o desenvolvimento de uma HU completa. Uma tarefa normalmente é desenvolvida por completo em horas.
 ```
 ---
 
