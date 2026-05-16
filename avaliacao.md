@@ -150,6 +150,7 @@ git checkout -b minha-branch
 ```
 ```text
 Resposta Questão 11: 
+A finalidade do código é mudar da branch atual para a minha-branch
 ```
 ---
 
@@ -159,11 +160,12 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [X] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
 Resposta Questão 12: 
+Critérios de Aceitação devem apresentar as restrições de aceitação de maneira clara e explicita. 
 ```
 ---
 
@@ -173,6 +175,7 @@ Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
 Resposta Questão 13: 
+Commits menores durante o desenvolvimento ajudam na rastreabilidade das modificações realizadas no Software e também na proteção contra perda do progresso durante o desenvolvimento. 
 ```
 ---
 
@@ -182,11 +185,12 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [X] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
 Resposta Questão 14: 
+A principal função do Scrum Master é prover um ambiente de trabalho propício a aderência da metodologia Scrum e garantir que a Equipe Scrum entenda e aplique os conceitos.
 ```
 ---
 
@@ -196,6 +200,10 @@ Explique a diferença entre merge e branch no Git.
 
 ```text
 Resposta Questão 15: 
+Como dito anteriormente: Branchs são codelines derivadas de outras codelines ou da mainline. A finalidade das branchs é isolar versões diferentes do software para que os desenvolvedores possam trabalhar em tarefas paralelamente.
+
+Já o Merge, se refere a ação de "mesclar" branchs afim de "sincronizar" as alterações em uma das duas branchs.
+
 ```
 ---
 
@@ -218,5 +226,21 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+1 - clonagem de um repositório remoto: 
+A clonagem do repositório pode ser efetuada através da interface do GitHub ou a partir do terminal do Sistema Operacional com o comando: 
+git clone https://github.com/user/repository
+
+2 - criação de uma branch individual:
+É possível criar branchs através da interface do VS Code. Basta identificar o ícone de branchs no canto inferior esquerdo, clicar e selecionar "Criar nova branch", nomear a nova branch e confirmar com enter. Também é possível criar a branch através da interface web do GitHub.
+
+3 - desenvolvimento na branch criada:
+Assim que a criação da branch for concluída, através da interface do VS Code, você já estará dentro dela e apto para desenvolver.
+
+4 - registro das alterações realizadas;
+O registro das alterações pode ser consultado na interface do VS Code, no menu de "Controle do Código-Fonte" no canto lateral esquerdo.
+
+5 - envio das alterações para o servidor remoto.
+O envio de alterações para o GitHub pode ser realizado na interface do VS Code, no menu de "Controle do Código-Fonte" no canto lateral esquerdo. Basta preparar as alterações, descrever o commit, se registrar no GitHub e confirmar o commit.
 ```
 ---
