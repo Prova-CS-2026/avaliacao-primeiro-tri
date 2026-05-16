@@ -19,7 +19,7 @@ Branch: avaliacao-arthur-shiroshima
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: Um processo de desenvolvimento de software se trata dos meios necessários para se desenvolver uma aplicação, incluindo ferramentas, frameworks, métodos e regras, de forma a atender as necessidades de uma equipe
 ```
 ---
 
