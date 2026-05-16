@@ -155,7 +155,7 @@ Resposta Questão 12: O sistema deverá permitir login apenas com credenciais v�
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Cada commit é como um registro das modificações feitas em um código. Quanto mais frequentes os commits, mais fácil é para um time identificar possíveis obstáculos ou erros em um código, e mais fácil é reverter pequenas mudanças sem grandes efeitos colaterais no resto do código.
 ```
 ---
 
@@ -165,11 +165,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [X] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Branch é a criação de uma nova instância de um código base, resultando em uma "ramificação" deste código que pode ser alterada à vontade. Merge é mesclar duas branches, uma ramificação e sua base original, para "transferir" as mudanças feitas na ramificação para a branch base.
 ```
 ---
 
@@ -201,5 +201,9 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1. Clonar o repositório remoto para uma máquina local, para que se tenha uma cópia do projeto em que se possa fazer alterações: git clone [link do repositório].
+2. Criar uma branch a partir de uma base, para que seja possível avaliar alterações individuais sem modificar a versão original: git create branch from [nome da branch].
+3. Criar e desenvolver os arquivos relevantes para a branch, através de adições e mudanças: git add [nome do arquivo que foi alterado ou modificado].
+4. Realizar registro das alterações para que a validação, comparação e análise das mudanças seja mais fácil e organizada no futuro: git commit -m "[descrição do commit]".
 ```
 ---
