@@ -6,11 +6,11 @@
 ```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
-Aluno: Eduardo Marionucci  
+Aluno:
 
-Matrícula: 20241PVAI1003008
+Matrícula:
 
-Branch: `avaliacao-eduardo`
+Branch:
 
 ---
 
@@ -19,7 +19,7 @@ Branch: `avaliacao-eduardo`
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: Um processo de desevolvimento de software são todas etapas que percorrem durante o ciclo de vida dele. 
+Resposta Questão 1: 
 ```
 ---
 
@@ -28,7 +28,7 @@ Resposta Questão 1: Um processo de desevolvimento de software são todas etapas
 Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 
 - [ ] Compilação
-- [X] Transparência
+- [ ] Transparência
 - [ ] Deploy
 - [ ] Versionamento
 
@@ -42,7 +42,7 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3:  O Product Backlog compete a todas as atividades elicitadas para uma sprint, não necessáriamente entrará em desenvolvimento na primeira sprint que é elicitado, mas em algum momento ou não pode entrar em desenvolvimento. A Sprint Backlog compete a todas as atividades propostas a serem implementadas ou não dentro de uma sprint, salvo em casos que a atividade fica como dívida técnica e é passada para a próxima sprint.
+Resposta Questão 3: 
 ```
 ---
 
@@ -51,12 +51,12 @@ Resposta Questão 3:  O Product Backlog compete a todas as atividades elicitadas
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [X] Entregar incremento funcional do produto
+- [ ] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: Entregar incremento funcional do produto
+Resposta Questão 4: 
 ```
 ---
 
@@ -66,11 +66,6 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
-Os Épicos são os escopos de um incremento em uma sprint, ele compete ao escopo específico de implementação que contém outras funcionalidades aninhadas a si mesmo.
-
-As histórias de usuário, como o subtentende, são traduções técnica das necessidades do usuário dentro do seu escopo específico (épico), elas são atividades que possuem um propósito de implementação específico para gerar valor ao seu épico. 
-
-As tarefas são atividades que devem ser desempenhadas pelo desenvolvedor dentro de uma história de usuário, ela compete ao trabalho que o mesmo vai desempenhar para entregar a sua HU.
 ```
 ---
 
@@ -80,11 +75,11 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [X] COMO usuário QUERO autenticar PARA acessar o sistema
+- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
+Resposta Questão 6: 
 ```
 ---
 
@@ -93,7 +88,7 @@ Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: Um branch é uma versão de código de um repositório git. Sua finalidade é poder funcionar como uma versão do código e fornecer um ambiente paralelo de desenvolvimento de um repositório git.
+Resposta Questão 7: 
 ```
 ---
 
@@ -103,11 +98,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [X] feat(login): adiciona autenticação de usuários
+- [ ] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8:  feat(login): adiciona autenticação de usuários
+Resposta Questão 8: 
 ```
 ---
 
@@ -116,7 +111,7 @@ Resposta Questão 8:  feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: O gerenciamento de configuração é a matriz essencial de segurança em repositório git. A configuração de um sistema é permeada pelo armazenamento de tokens e senhas importantes de comunicação pela internet. A visibilidade dessas informações podem vulnerabilizar um projeto inteiro e dar acesso a informações sigilosas. A configuração de um sistema é essencial para previnir práticas maliciosas e erros de desenvolvimento.
+Resposta Questão 9: 
 ```
 ---
 
@@ -125,7 +120,7 @@ Resposta Questão 9: O gerenciamento de configuração é a matriz essencial de 
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: O Kanban ajuda a evidenciar as fases de cada etapa de um processo de desenvolvimento. A visualização em etapas permite com que a equipe fique ciente das atribuições de determinada atividade, a visualização de progresso do desenvolvimento, entre outros fatores positivos ao gerenciamento de equipes.
+Resposta Questão 10: 
 ```
 ---
 
@@ -137,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: O comando faz a criação de uma branch em um repositório git a partir da branch atual, seguido pela troca imediata para a branch criada.
+Resposta Questão 11: 
 ```
 ---
 
@@ -147,11 +142,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [X] O sistema deverá permitir login apenas com credenciais válidas
+- [ ] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
+Resposta Questão 12: 
 ```
 ---
 
@@ -160,7 +155,7 @@ Resposta Questão 12: O sistema deverá permitir login apenas com credenciais v�
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: A prática da realização de commits frequentes ajuda a particionar o trabalho facilitando a inclusão de partes de trabalho de determinada funcionalidade. 
+Resposta Questão 13: 
 ```
 ---
 
@@ -170,7 +165,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [X] Garantir que o Scrum seja entendido e aplicado
+- [ ] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
@@ -183,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: O merge é como se fosse o agrupamento de uma porção de código a uma origem, usado como uma ferramenta de união de branches, essas que são versões paralelas de código que podem ou não ser unidos a outra branch através do merge.
+Resposta Questão 15: 
 ```
 ---
 
@@ -206,35 +201,5 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
-
-Para você começar o desenvolvimento em um repositório git, uma das alternativas via terminal é executar a seguinte sequência de comandos.
-
-1. git clone https://<sua-url>.git ( A url fica disponível na interface no botão <> Code > HTTPS )
-2. git checkout -b <nome-da-branch>
-
-Dentro da sua branch,
-
-Inserir os arquivos alterados ao git:
-git add . ou git add <nome do diretorio ou arquivo>;
-ou
-use o botão "+" dentro da aba Controle de Código Fonte 
-ou 
-Envie os arquivos via interface no seu versionador git favorito
-
-
-Configurar a sua origem remota 
-git remote set-url <nome da origem (por padrão origin)> <url>
-
-Commitar as alterações
-git commit -m "<sua mensagem>"
-ou 
-Adicione uma mensagem em Alterações > Messagem (ctrl + enter) no VS Code
-ou 
-adicione a mensagem quando você já tiver sua alterações feitas dentro da interface do versionador
-
-Enviar as informações para a sua origem 
-git push -a origin
-
-
 ```
 ---
