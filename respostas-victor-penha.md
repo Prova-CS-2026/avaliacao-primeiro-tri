@@ -111,7 +111,7 @@ Resposta Questão 8: feat(login):adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9:  
 ```
 ---
 
@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: A utilização é vantajosa pois permite uma melhor visualização do andamento do projeto, assim deixando tudo mais orgnaizado e previsível
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: abrir uma branch sem fazer com que os arquivos da branch previamente aberta se fechem
 ```
 ---
 
@@ -146,7 +146,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -155,7 +155,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: verificar o andamento do software e deixar mais fácil de encontrar um possível erro no futuro
 ```
 ---
 
@@ -169,7 +169,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14:  Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
