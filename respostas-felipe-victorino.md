@@ -201,5 +201,17 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+Considerando um repositório existente, é necessário ter um link para aquele reposítório, tanto HTTPS quant SSH, mas geralmente o HTTPS é mais comum.
+
+O comando 'git clone <link>' irá criar uma cópia dos arquivos e histórico de arquivos localmente. Issó permitirá o desenvolvimento em um dispositivo não remoto, geralmente o seu próprio.
+
+Após a clonagem, uma branch individual deve ser feita para não alterar a branch principal, a criação de uma nova branch pode ser feita com o comando 'git branch <nome-da-branch>', para entra trocar para a nova branch se usa 'git checkout <nome-da-branch>'. Existe também uma versão mais curta dessa sequência, onde se usa o 'git checkout -b <nome-da-branch>' para criar e trocar para uma nova branch.
+
+Com a branch criada, pode então modificar os arquivos daquele repositório. Cada modificação não é versionada automaticamente, é preciso marcar as mudanças par ao preparo de um commit, para adicionar um arquivo ao preparo se usa 'git add </caminho/do/arquivo>'. Isso adicionará os arquivos para o preparo recursivamente, ou seja ele também adicionará pastas e o conteudo dentro das pastas, usar o comando 'git add .' no diretório principal adicionara todas as modificações para alteração.
+
+Com alterações suficientes se pode criar um commit com comando 'git commit -m "descrição do commit"', isso irá salvar todas as mudancas na branch atual como um commit. Um commit não é facilmente revertido, ficando permanentemente no histórico da branch, mas ele pode ser alterao com um outro commit posteriormente.
+
+Quando se agrega commits o suficiente se pode
 ```
 ---
