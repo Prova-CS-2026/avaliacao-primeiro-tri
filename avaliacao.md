@@ -70,6 +70,12 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
+- O Épico é uma grande fatia do produto, e evolve um conjunto de Histórias de Usuários;
+
+- As Histórias de Usuário são partes menores de um Épico, geralmente são escritas como storytelings e possuem várias Tarefas;
+
+- As Tarefas compões as Histórias de Usuário, são curtas e diretas e representam features do software.
+
 ```
 ---
 
@@ -79,11 +85,12 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [ ] COMO usuário QUERO autenticar PARA acessar o sistema
+- [X] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
 Resposta Questão 6: 
+História de Usuário geralmente são escritas como storytelings.
 ```
 ---
 
@@ -93,6 +100,7 @@ O que é uma branch no Git e qual sua finalidade?
 
 ```text
 Resposta Questão 7: 
+Branchs são codelines derivadas de outras codelines ou da mainline. A finalidade das branchs é isolar versões diferentes do software para que os desenvolvedores possam trabalhar em tarefas paralelamente.
 ```
 ---
 
@@ -102,11 +110,14 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [X] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
 Resposta Questão 8: 
+Um commit adequado deve apresentar ao menos o tipo e descrição, seguindo o seguinte padrão:
+
+tipo(escopo): descrição
 ```
 ---
 
@@ -116,6 +127,7 @@ Explique o que é gerenciamento de configuração.
 
 ```text
 Resposta Questão 9: 
+O gerenciamento de configuração se refere aos fundamentos que regem o versionamento de código e quaisquer outras atividades relacionadas a configuração do ambiente de desenvolvimento de Software.
 ```
 ---
 
@@ -125,6 +137,7 @@ Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de
 
 ```text
 Resposta Questão 10: 
+O quadro Kanban é um recurso organizacional e visual para toda a equipe Scrum, agilizando muito o processo de separação de responsabilidades e tomadas de decisão. Através do Kanban, os membros da equipe Scrum podem consultar o estado do Product Backlog, Sprint Backlog, Atividades que estão Em Progresso, Review e Finalizadas.
 ```
 ---
 
