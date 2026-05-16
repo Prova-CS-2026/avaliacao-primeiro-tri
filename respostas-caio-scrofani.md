@@ -120,7 +120,7 @@ Resposta Questão 9: Gerenciamento de configuração se refere às políticas us
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: Pela utilização do Kanban, a equipe se torna capaz de monitorar de forma fácil e intuitiva o progresso de um projeto, facilitando a identificação de obstáculos, gargalos na produção, entre outros.
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: O comando em questão realiza a troca para a branch de nome minha-branch, saindo assim da branch anterior e permitindo a visualização e modificação dos arquivos de minha-branch.
 ```
 ---
 
@@ -142,11 +142,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [X] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
