@@ -123,3 +123,37 @@ Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de
 Resposta Questão 10: Uma das vantagens é visualizar o fluxo de trabalho da equipe. Sendo assim, é possível visualizar quais são as próximas tarefas a serem desenvolvidas e se preparar para a implementa-las, como em caso do desenvolvedor não possuir todo o conhecimento necessário para a concluir.
 ```
 ---
+# Questão 11
+
+Qual a finalidade do comando abaixo?
+
+```bash
+git checkout -b minha-branch
+```
+```text
+Resposta Questão 11: Criar uma branch nova e entrar nessa branch.
+```
+---
+
+# Questão 12
+
+Qual alternativa representa corretamente um critério de aceitação?
+
+- [ ] Criar tela
+- [ ] Implementar endpoint
+- [x] O sistema deverá permitir login apenas com credenciais válidas
+- [ ] Criar branch
+
+```text
+Resposta Questão 12: Terceira Alternativa: O sistema deverá permitir login apenas com credenciais válidas.
+```
+---
+
+# Questão 13
+
+Explique a importância de commits frequentes durante o desenvolvimento.
+
+```text
+Resposta Questão 13: Permite maior rastreabilidade sobre o progresso feito, podendo ir em uma alteração específica ao invés de procurar em um commit gigante.
+```
+---
