@@ -146,7 +146,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -155,7 +155,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Para que possa ser visível o incremento, e não o "produto final" de uma só vez. Isso traz que o dev está trabalhando e dividindo as tasks em partes. E também a segurança, garantindo que nada seja perdido em alguma incoveniência.
 ```
 ---
 
@@ -169,7 +169,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Merge - cria uma nova versão através de mudanças feitas em codelines distintas (união). Branch - Cria uma nova codeline a partir de uma existente. 
 ```
 ---
 
@@ -201,5 +201,14 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1. git clone link
+2. git config --global user.email ""
+3. git config --global user.name ""
+4. git checkout main
+5. git pull origin main
+6. git checkout -b nome
+7. git add .
+8. git commit -m ""
+9. git push origin nome
 ```
 ---
