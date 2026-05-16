@@ -129,7 +129,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+criar uma nova branch e já trocar para ela 
 ```
 ---
 
@@ -143,7 +143,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+O sistema deverá permitir login apenas com credenciais válidas 
 ```
 ---
 
@@ -152,7 +152,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+commits frequentes permitem varias versões de um mesmo código, ou seja, se você fazer vários commits de partes pequenas do seu código, conforme você completar cada tarefa, por exemplo. Se em algum momento, algo der errado, fica mais fácil de se recuperar a versão estável do seu código, uma vez que essas versões ficam rastreaveis e com recuperação fácil.
 ```
 ---
 
@@ -166,7 +166,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -175,7 +175,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+usamos o merge quando queremos misturar duas versões de um código, como por exemplo fazer o merge da branch A com a branch B. Já a branch em si são os caminhos diferentes (versões) de um mesmo código, onde 1 ou mais desenvolvedores estão fazendo alterações de forma simultânea, um sem atrapalhar o outro
 ```
 ---
 
@@ -197,6 +197,14 @@ Na resposta:
 - considere que a branch pode ser criada tanto localmente quanto pela interface do GitHub.
 
 ```text
-Resposta Questão 16: 
+1- git clone https://github.com/Prova-CS-2026/avaliacao-primeiro-tri.git
+
+2- git checkout -b "nova-branch"
+
+3- git add .
+
+4- git commit -m "feat(index.html): criacao de campo de login"
+
+5- git push
 ```
 ---
