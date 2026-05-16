@@ -113,7 +113,7 @@ Resposta Questão 8: feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: é uma forma de controlar, registrar e gerenciar as versões e mudanças feitas pela equipe ao longo tempo
 ```
 ---
 
@@ -122,7 +122,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: é um método visual que auxilia a equipe e demais a ver o progresso e andamento das tarefas criadas e entender caso alguma etapa esteja muito cheia e verificar o motivo por trás
 ```
 ---
 
@@ -134,7 +134,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: você está criando uma nova branch
 ```
 ---
 
@@ -148,7 +148,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -171,7 +171,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -180,7 +180,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: merge é quando você está enviando suas modificações da sua branch (a codeline atual que você trabalhou) para a baseline que é a atual, por conta disso, se 2 branches diferentes modificaram as mesmas linhas da baseline, haverá o merge conflit, pois o sistema precisará de uma intervenção humana para saber qual modificação aceitar
 ```
 ---
 
@@ -203,5 +203,10 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1. clonagem de um repositório remoto: git clone repositorio -> aqui voce está copiando um repositorio para sua maquina local
+2. criação de uma branch individual: git checkout -b nome-branch -> aqui voce esta criando uma branch para trabalhar no repositorio sem fazer alterações diretas no repositorio
+3. desenvolvimento na branch criada: git add . -> voce está preparando suas alterações para envio
+4. registro de alterações: git commit -m "alteração feita" -> voce está enviando sua alteração com uma mensagem do que foi feito, mas ainda remotamente, nao chegou no repositorio original
+5. envio: git push -> agora aqui voce ja esta enviando suas alterações para o repositorio original, fazendo o merge
 ```
 ---
