@@ -19,7 +19,7 @@ Branch:
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: transformar requisitos de um cliente em um software.
 ```
 ---
 
@@ -33,7 +33,7 @@ Qual das alternativas abaixo representa corretamente um dos pilares do Scrum?
 - [ ] Versionamento
 
 ```text
-Resposta Questão 2: 
+Resposta Questão 2: transparência
 ```
 ---
 
@@ -42,7 +42,7 @@ Resposta Questão 2:
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: Product Backlog - uma lista de funcionalidades que são necessárias para o Produto. / Sprint Backlog - As funcionalidades puxadas do Product Backlog e que serão desenvolvidas na Sprint atual.
 ```
 ---
 
@@ -56,7 +56,7 @@ Qual o principal objetivo de uma Sprint?
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -65,7 +65,7 @@ Resposta Questão 4:
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Épico - é uma função maior, que dita o que o usuário será capaz de fazer e que é composta por histórias de usuários (pequenas funcionalidades) / História - Uma pequena funcionalidade que compõem o Épico, sendo assim, algo mais específico (requisitos menores e mais específicos que constitui o épico) / Tarefa - tarefas de desenvolvedo, aquilo que deverá ser construído pelo DEV e que satisfará os critérios de aceitação / Tarefas técnicas - coisas que deverão ser feitas, mas que não necessariamente agrega valor ao cliente.
 ```
 ---
 
@@ -79,7 +79,7 @@ Qual alternativa representa corretamente uma História de Usuário?
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 ```
 ---
 
@@ -88,7 +88,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Ela cria uma nova codeline a partir de uma nova existente, permitindo que o desenvolvimento ocorra de forma independente.
 ```
 ---
 
@@ -102,7 +102,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login)Ç adiciona autenticação de usuários
 ```
 ---
 
