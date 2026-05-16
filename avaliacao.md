@@ -141,7 +141,6 @@ O kanban ele permite uma maior organização com o processo de desenvolvimento p
 
 # Questão 11
 
-
 Qual a finalidade do comando abaixo?
 
 ```bash
@@ -149,7 +148,7 @@ git checkout -b minha-branch
 ```
 ```text
 Resposta Questão 11: 
-
+O comando git checkout -b minha-branch seria uma "junção" de git branch minha-branch e checkout, onde ele cria uma branch nova e ja te coloca nessa nova branch criada.
 ```
 ---
 
@@ -159,12 +158,13 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [] O sistema deverá permitir login apenas com credenciais válidas
+- [X] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
+
 
 ```text
 Resposta Questão 12: 
-Um critério
+Um critério de aceitação indica oque é necessário para alcançar a necessidade exigida.
 ```
 ---
 
@@ -174,6 +174,7 @@ Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
 Resposta Questão 13: 
+Commits funcionam como um ponto em uma linha no tempo isso permite a rastreabilidade para verificar quando um funcionalidade foi adiciona, ou quando um bug foi corrigido, além disso com commits é possível voltar para uma ponto anterior caso necessário pois o commit como dito marca um ponto em uma linha do tempo permitindo então esse "retrocesso" se necessário voltando para um commit anterior.
 ```
 ---
 
@@ -183,11 +184,12 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [X] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
 Resposta Questão 14: 
+O papel do Scrum Master é ser um facilitador ou seja permite que o scrum ocorra e resolve impedimentos.
 ```
 ---
 
@@ -197,6 +199,7 @@ Explique a diferença entre merge e branch no Git.
 
 ```text
 Resposta Questão 15: 
+Uma Branch é uma linha paralela de desenvolvimento é possiverl criar varias branches a partir da main que seria a branch principal do projeto, com isso é possível fazer alterações sem afetar a branch principal. Merge seria um processo de unir branches ou aceitar a alteração de uma outra branch na branch atual, levando como exemplo a branch Main novamente se um DEV esta alterando a branch que ele criou após a modifiações ele pode ter que dar um pull antes pergando outras alterações que foram aceitas na branch principal assim ele devera fazer um merge aceitando as novas alterações para atualizar a sua branch atual, unindo as alterações.
 ```
 ---
 
@@ -219,5 +222,19 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1- git clone https://github.com/Prova-CS-2026/avaliacao-primeiro-tri.git
+    --> clona o repositório localmente
+2- git branch avaliacao-gustavo-randi      
+    --> cria uma branch nova
+3- git checkout avaliacao-gustavo-randi
+    --> mudar para a branch criada e poder desenvolver
+4- git add . ou git status
+    --> git add se quer registrar adiciona as alterações para serem consideradas no commit
+    --> git status se com registro quer verificar o registro do que foi alterado
+5- git commit -m "fix: mensagem de commit"
+    --> commita com uma mensagem deixando salvo localmente as alterações 
+6- git push
+    --> "empurra" as mudanças para o repositorio
+
 ```
 ---
