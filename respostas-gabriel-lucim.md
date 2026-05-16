@@ -226,5 +226,29 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+1-Clonar repositório do GitHub no terminal.
+git clone URL(Exemplo: git clone https://github.com/Prova-CS-2026/avaliacao-primeiro-tri.git)
+
+2-Criação da branch a partir da história de usuário no GitHub para separar corretamente e sem confusão de qual história aquela branch se trata.
+Acessar a história a qual será desenvolvida no GitHub, no quadro Kanban, veja ao lado da barra de rolagem, um campo descrito como "Developmet", onde possui um botão para criar uma nova branch para a história selecionada e nomea-lá corretamente, vale ressaltar que é muito importante submeter-se ao desenvolvimento da história e relatar isso no github, para fazer isso é semelhante a criação da branch, ao lado da barra de rolagem da página novamente, possui o campo "Assignees" onde é possível assign yourself para relatar que você está comprometido naquele desenvolvimento
+
+3-Acesso do repositório.
+Para acessar o repositório clonado, no terminal insira:
+cd nome-repositorio
+
+4-Desenvolvimento na branch criada.
+Para acessar a nova branch criada e desenvolver nela, basta inserir no terminal:
+git checkout nome-da-branch
+
+5-Registro das alterações realizadas.
+Para dar commits e registrar as alterações feitas basta seguir:
+add .
+git commit -m "nomenclatura do commit"
+
+
+6-Envio das alterações para o servidor remoto.
+Comando que envia os commits registrados ao servidor remoto:
+git push
 ```
 ---
