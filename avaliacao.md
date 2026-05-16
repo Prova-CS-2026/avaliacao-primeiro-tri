@@ -19,7 +19,7 @@ Branch: avaliacao-diego-matheus
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: É o processo que envolve a concepção, gerenciamento, desenvolvimento, teste e entrega de um produto de software. Deve envolver um planejamento e gerenciamento de diversas frentes de modo rigoroso para arquitetar uma solução escalável e passível de evolução.
 ```
 ---
 
@@ -203,3 +203,5 @@ Na resposta:
 Resposta Questão 16: 1. git clone <<baseline>> 2. git branch -b sua-branch 3. git add -> git commit -m "tipo(opcional): descrição do que esse commit resolve" -> git push -> fazer o pull request.
 ```
 ---
+
+Sistema de gerenciamento acadêmico	A coordenação de um curso deseja centralizar informações acadêmicas para reduzir retrabalho administrativo e inconsistências em registros.
