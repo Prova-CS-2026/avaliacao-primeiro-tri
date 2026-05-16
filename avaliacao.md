@@ -71,10 +71,10 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
-Épicos são grandes fátias do produto e são criadas a partir da visão do negócio exemplo poderia ser Modulo de controle de exames.
+Épicos são grandes fátias do produto e são criadas a partir da visão do negócio exemplo poderia ser Modulo de controle de exames, eles possuem objetivos, descrição e critérios de aceitação.
 Histórias de usuários são partes de funcionalidades que representam a interação do usuário com aquela mesma funcionalidade, se a funcionalidade for "Consultar exames marcados" uma história de usuário mostra um contexto de interação do usuário com essa funcionalidade, com uma forma narrativa mostrando o valor, motivação e contextualização não so focando no técnico, seguindo o exemplo "Consultar exames marcados" a HU ficaria 
 "Eu como paciente que utiliza o sistema, quero poder ver os exames anexados ao meu perfil para poder ter um controle e registro".
-Uma task ela pode se devirar de uma HU (História de usuário) de uma forma mais técnica .
+HU's possuem tarefas que se relacionam com o objetivo da HU de quem pertecem ou seja tarefa seguindo oexemplo seria - Criar aba de exames relacionados ao paciente.
 ```
 ---
 
