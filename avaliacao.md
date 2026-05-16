@@ -102,7 +102,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: feat(login)Ç adiciona autenticação de usuários
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -111,7 +111,7 @@ Resposta Questão 8: feat(login)Ç adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: Conjunto de processos que permite gerenciar a construção de um software. Gestão de mudanças (proposta de mudanças), Gerenciamento de Versões (contrle de diferentes versões), Gerencimaento de sistema (consolida as versões para o sistema completo), Gerenciamento de Lançamento/Realeses (versões que serão entregues aos usuários)
 ```
 ---
 
@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: Transparência, todos os envolvidos terão acesso do que será, do que está e do que já foi feito.
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Cria uma ramificação isolada para a tarefa. Ele permite que o dev desenvolva, mas não diretamente na main.
 ```
 ---
 
