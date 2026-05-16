@@ -111,7 +111,7 @@ Resposta Questão 8: feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: São as configurações que abragem todo o processo de desenvolvimento.
 ```
 ---
 
@@ -201,5 +201,17 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+1- git clone https://github.com/Prova-CS-2026/avaliacao-primeiro-tri.git
+2- git fetch
+3- git checkout main *ou branch principal do projeto
+4- git checkout -b "feat/minha-branch"
+5- git push --set-upstream origin feat/minha-branch
+6- git status
+7- git add . *ou arquivos especificos que eu queria subir
+8- git commit -m "descricao do commit"
+9- git push
+-  
+
 ```
 ---
