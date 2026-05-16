@@ -115,7 +115,7 @@ Resposta Questão 8: [x] feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: Gerenciamento de configuração se trata de um aspecto na engenharia de software que trata do gerenciamento do ambiente de desenvolvimento de uma equipe, visando implementar métodos de versionamento e padrões de desenvolvimento.
 ```
 ---
 
