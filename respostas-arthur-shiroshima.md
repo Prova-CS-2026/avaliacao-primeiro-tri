@@ -155,7 +155,7 @@ Resposta Questão 12: [x] O sistema deverá permitir login apenas com credenciai
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Os commits frequentes permitem o rastreamento das alterações feitas em um projeto de forma atomizada, de forma que, caso haja algum problema em um commit atual, possa ser feito o rollback do projeto para uma versão anterior funcional sem grandes perdas no projeto.
 ```
 ---
 
