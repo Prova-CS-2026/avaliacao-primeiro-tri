@@ -76,7 +76,7 @@ Qual alternativa representa corretamente uma História de Usuário?
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+COMO usuário QUERO autenticar PARA acessar o sistema 
 ```
 ---
 
@@ -85,7 +85,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Uma branch é como se fossa uma outra "versão" que eu crio para o mesmo código em um repositório, usada para evitar conflitos durante o desenvolvimento. Então se tem 2 desenvolvedores que estão usando as mesmas versões bases de um código, é necessário se criar uma branch para cada um deles para que cada um faça a sua parte sem complicações e no final juntar essas duas versões para gerar uma versão nova
 ```
 ---
 
@@ -99,7 +99,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+feat(login): adiciona autenticação de usuários
 ```
 ---
 
@@ -108,7 +108,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+gerenciamento de configuração é feito quando precisamos deixar todos os ambientes de desenvolvimento prontos para que não haja uma incompatibilidade de versões por exemplo, do flutter, todos os DEVS precisarão fazer uma gerencia de configurações conforme o que for indicado pelo scrumaster
 ```
 ---
 
@@ -117,7 +117,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+O Kanban facilita a equipe a observar a fluidez do desenvolvimento do projeto, se os desenvolvedores estão conseguindo concluir as suas tarefas, quais tarefas estão atribuídas aos devs x,y,z, e  qual o status dessa tarefa, o que ajuda MUITO na gerencia do projeto.
 ```
 ---
 
