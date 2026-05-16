@@ -111,7 +111,7 @@ Resposta Questão 8: feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: O gerenciamento da configuração é
+Resposta Questão 9: O gerenciamento da configuração é todas as necessidades que facam com o que o desenvolvimento aconteça segundo as preferências ditadas pelo stakeholder e necessidades de desenvolvimento, a atualização e instalação de ferramentas como um, a fromalização de métoodos como o Kanban, artefatos como a sprint.
 ```
 ---
 
@@ -212,6 +212,8 @@ Com a branch criada, pode então modificar os arquivos daquele repositório. Cad
 
 Com alterações suficientes se pode criar um commit com comando 'git commit -m "descrição do commit"', isso irá salvar todas as mudancas na branch atual como um commit. Um commit não é facilmente revertido, ficando permanentemente no histórico da branch, mas ele pode ser alterao com um outro commit posteriormente.
 
-Quando se agrega commits o suficiente se pode
+Quando se agrega commits o suficiente se pode então realizar um push, o push irá colocar as mudanças em uma branch em um reposítótio remoto, declarado com o comando 'git remote add <nome-do-repositorio> <link>', no caso da clonagem, o repositório remoto será já configurado, para realizar um push se usa  o comando 'git push -u <remote> <nome-da-branch>', como não é boa prática realizar um push direto pra main, se faz um push para a branch individual 'git push -u origin nome-da-branch'.
+
+Enviando ao servidor remoto, pode opcionalmente atualizar os conteúdos das branch locais caso alguma mundaçã tenha contecido com o 'git fetch' ou o 'git pull' que em conjunto ao 'git fetch' também realiza uma mesclagem do repositório remoto e local.
 ```
 ---
