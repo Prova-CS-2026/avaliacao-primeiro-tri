@@ -166,11 +166,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [x] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -179,7 +179,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Merge é fundir diferentes branches em uma versão contendo os adicionais de cada uma.
 ```
 ---
 
@@ -202,5 +202,19 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+
+1. Clone um repositório já criado através do comando "git clone [url do repositório]". Assim, os arquivos já presentes no repositório serão duplicados para que você os altere.
+
+2. Crie uma branch com o comando "git branch [nome da branch]". Assim, uma ramificação da linha de desenvolvimento será criada para que você altere uma versão separada.
+
+3. Troque para a branch criada com o comando "git checkout [nome da branch]".
+
+4. Após realizar as alterações, adicione os arquivos a serem commitados através do comando "git add [nome do arquivo]", ou utilize "git add ." para adicionar todos os arquivos ainda não adicionados.
+
+5. Realize um commit das alterações feitas através do comando "git commit -m "[mensagem do commit]"".
+
+// Você pode utilizar "git status" e "git log" para ver as alterações, commits e branches existentes.
+
+6. Utilize o comando "git push origin [nome da branch]" para enviar os commits locais para a branch determinada no servidor.
 ```
 ---
