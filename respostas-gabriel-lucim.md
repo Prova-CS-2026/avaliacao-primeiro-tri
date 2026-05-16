@@ -43,6 +43,10 @@ Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
 Resposta Questão 3: 
+
+Product Backlog: Trata-se da lista de tudo que é necessário no produto, está lista nunca pode ser denominada como completa, histórias de usuários mais altas no quadro Kanban são mais claras e tem prioridade maior para serem desenvolvidas, além disso está lista pode ser atualizada pelo PO constantemente.
+
+Sprint Backlog: Trata-se do conjunto de tarefas/funcionalidades/histórias selecionados do product backlog para incremento durante o período da sprint.
 ```
 ---
 
@@ -51,12 +55,12 @@ Resposta Questão 3:
 Qual o principal objetivo de uma Sprint?
 
 - [ ] Criar documentação definitiva
-- [ ] Entregar incremento funcional do produto
+- [x] Entregar incremento funcional do produto
 - [ ] Corrigir apenas bugs críticos
 - [ ] Substituir reuniões diárias
 
 ```text
-Resposta Questão 4: 
+Resposta Questão 4: Entregar incremento funcional do produto
 ```
 ---
 
@@ -66,6 +70,12 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
+
+Épico: Grande fatia do produto, composta por uma coleção de histórias de usuário, podendo ser descrito como fluxo de trabalho, papel, entre outros.
+
+História de Usuário: Experiência do usuário com a aplicação naquele determinado setor, tendo um conjunto de tarefas que devem ser realizadas e o critério de aceitação para validação no desenvolvimento, como exemplo; uma tela de login, a qual possui diversas tarefas que devem ser implementadas para uma boa experência de usuário.
+
+Tarefa: Uma funcionalidade que deve ser implementada no produto, como exemplo; um botão para direcionamento ou envio de dados.
 ```
 ---
 
