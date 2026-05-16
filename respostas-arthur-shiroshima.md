@@ -178,7 +178,7 @@ Resposta Questão 14: [x] Garantir que o Scrum seja entendido e aplicado
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Uma branch é uma ramificação de um repositório, que pode ser modificada sem alterar o conteúdo da branch mãe. Um merge é uma ação que une uma branch com a outra, de forma a sincronizar as alterações da branch filha com a branch mãe, por exemplo.
 ```
 ---
 
