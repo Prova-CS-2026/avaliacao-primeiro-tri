@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: Umas das vantagens do quadro Kanban para equipes de desenvolvimento de software é organização, velocidade e visualização geral de tarefas, permitindo a mudança rápida entre status e fornecendo uma visão geral das tarefas presentes naquele projeto, incluindo tarefas de outros desenvolvedores. 
 ```
 ---
 
