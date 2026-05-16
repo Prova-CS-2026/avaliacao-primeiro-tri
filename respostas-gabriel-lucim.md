@@ -175,6 +175,8 @@ Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
 Resposta Questão 13: 
+
+A utilização de commits frequentes é uma boa prática pelo fato de todo commit ser documentado sobre o que foi alterado e o que foi implementado, assim podendo ter um melhor controle de todas as versões, caso o que foi implementado resulte em um erro fatal, é possível voltar em algum outro commit recente onde esse erro não persiste, caso a frequencia de commits seja baixa, com várias funcionalidades diferentes implementadas em poucos commits, pode resultar na confusão de compreender o que foi feito e o que foi alterado, além de um erro fatal poder ocasionar na necessidade de voltar ao commit anterior que tenha muito desenvolvimento atrasado comparado ao que estava sendo desenvolvido e não commitado, sendo necessário refazer tudo novamente.
 ```
 ---
 
@@ -184,11 +186,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [x] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -198,6 +200,10 @@ Explique a diferença entre merge e branch no Git.
 
 ```text
 Resposta Questão 15: 
+
+Merge: Criação de nova versão de um componente do sistema baseado na fusão de versões separadas em diferentes branchs.
+
+branch: conjunto de versões de um componente de software e outros itens de configuração dos quais esse componente depende.
 ```
 ---
 
