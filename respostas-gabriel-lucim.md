@@ -124,6 +124,8 @@ Explique o que é gerenciamento de configuração.
 
 ```text
 Resposta Questão 9: 
+
+Baseia-se na gestão de versões e itens de configuração de um produto, mantendo um gerenciamento padrão de baselines, codelines, merging, mainline, release, branchs e versões do produto final 
 ```
 ---
 
@@ -133,6 +135,8 @@ Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de
 
 ```text
 Resposta Questão 10: 
+
+O Kanban possui uma implementação de experiência mais facilitada e intuitiva para desenvolvimento, como pode-se ver no quadro Kanban, aonde todas as informações são minuciosamente escritas de forma simples e intuitiva, descrevendo tudo que deve ser feito, como será utilizado, por quem será utilizado, e os critérios para que aquela funcionalidade esteja de acordo com o produto.
 ```
 ---
 
@@ -145,6 +149,9 @@ git checkout -b minha-branch
 ```
 ```text
 Resposta Questão 11: 
+
+acessar a branch "minha-branch".
+
 ```
 ---
 
@@ -154,11 +161,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
