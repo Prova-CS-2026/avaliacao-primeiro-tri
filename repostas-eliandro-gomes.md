@@ -139,7 +139,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Esse comando cria uma nova branch e já faz o checkout para ela, ou seja, já muda o ambiente para essa determinada branch.
 ```
 ---
 
@@ -149,11 +149,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
@@ -162,7 +162,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Os commits permitem a rastreabilidade e o controle do código, podendo saber quando tal trecho/funcionalidade foi adicionado/alterado. podem servir também como pontos de ancoragem caso algum problema venha a ocorrer, podendo voltar para essas versões mais estáveis.
 ```
 ---
 
@@ -172,11 +172,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [x] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -185,7 +185,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Branchs são as ramificações em si cada uma com seu próprio código. Já o merge é quando ocorre a fusão entre elas, onde as alterações e modificações de uma branch serão adicionadas em outra.
 ```
 ---
 
@@ -208,5 +208,15 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1° git clone "url-do-projeto" (com esse comando o repositório presente na url sera clonado no caminho presente), pode ser feito pelo CMD. assim uma cópia do projeto ficara presente locamente no seu pc.
+
+2° podemos fazer pelo github ento no repositório na aba de branchs e criando uma nova branch (por padrão é criado uma main ou master) ou tendo clonado e entrado na raiz da pasta ou por uma idea, podemos utilizar git checkout -b nova-branch-do-projeto (com esse comando uma nova branch é criada e já é alterado para ela). assim criamos uma propria ramificação para que podemos commitar sem causar problemas ao ramo de origem do projeto.
+
+3° aí é só fazermos as alterações nessa branch, seja criando novos arquivos, deletando ou alterarndo já existentes. aqui é onde podemos então trabalhar a vontade.
+
+4° o registro pode ser feito pelo git add . (para tudo que alterou) ou git add arquivos onde serão adicionados os arquivos prontos para serem confirmados as alterações, git commit -m "mensangem registrando todas as alterações feitas nesses arquivos" e com esse comando são confirmadas as alterações. assim salvamos na nossa propria branch nossas proprias alterações e o histórico delas. 
+
+5° por fim para enviar para o remoto, basta após a realização das confirmações o uso do git push origin main. feito isso asseguramos que todas nossas alterações estejam pressentes remotamente, para caso venhamos a perder acesso ao que temos local podermos acessa-lo novamente por meio de rebase, checkout ou outra clonagem.
+
 ```
 ---
