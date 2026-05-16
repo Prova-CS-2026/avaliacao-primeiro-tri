@@ -42,7 +42,7 @@ Resposta Questão 2: Transparência
 Explique a diferença entre Product Backlog e Sprint Backlog.
 
 ```text
-Resposta Questão 3: 
+Resposta Questão 3: O product Backlog diz respeito ao planejamento do produto enquanto o Sprint Backlong diz respeito ao planejamento da sprint
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:  Garantir que o Scrum seja entendido e aplicado
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: o merge vai juntar dois arquivos ou branches, já o branch se refere a ações que podem ser feita em uma branch, inclusive a de criá-la
 ```
 ---
 
@@ -201,5 +201,20 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1- clone o repositório com o comando git clone <url do repositório que deseja clonar> 
+    Este passo serve para você criar uma cópia do repositório remoto no seu local
+2- crie sua branch individual em branches->new branch, colocando o nome desejado no campo indicado
+    Serve para que você possa fazer seu código de maneira mais organizada junto aos outros devs
+3- Inicie o repositório com o comando git init
+    Serve para que você possa começar a editar seus arquivos e dar commits
+4- Faça a autenticação da sua conta do github com a chave ssh
+    Serve para que você possa realizar pushes
+5- Faça o push da sua branch com o comando git push
+    Manda a sua branch para o repositório remoto
+6- Faça as alterações
+7- Registre suas alterações com git commit -m "insira sua mensagem"
+    serve para você registrr as alterações antes de manda-las definitivamente para o servidor remoto
+8- Envie as alterações para o servidor remoto com git push origin <nome-da-sua-branch>
+    Vai enviar suas alterações para o servidr remoto
 ```
 ---
