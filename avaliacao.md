@@ -98,11 +98,11 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [ ] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: Terceira Alternativa: feat(login): adiciona autenticação de usuários.
 ```
 ---
 
@@ -111,7 +111,7 @@ Resposta Questão 8:
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: É o que permite controlar as mudanças e versões do código. Esse gerenciamento é o que permite versionar o código, tornando cada alteração restreável e identificável, a fim de que o software seja produzido com organização.
 ```
 ---
 
@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: Uma das vantagens é visualizar o fluxo de trabalho da equipe. Sendo assim, é possível visualizar quais são as próximas tarefas a serem desenvolvidas e se preparar para a implementa-las, como em caso do desenvolvedor não possuir todo o conhecimento necessário para a concluir.
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Criar uma branch nova e entrar nessa branch.
 ```
 ---
 
@@ -142,11 +142,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: Terceira Alternativa: O sistema deverá permitir login apenas com credenciais válidas.
 ```
 ---
 
@@ -155,7 +155,7 @@ Resposta Questão 12:
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Permite maior rastreabilidade sobre o progresso feito, podendo ir em uma alteração específica ao invés de procurar em um commit gigante.
 ```
 ---
 
@@ -165,11 +165,11 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 
 - [ ] Definir sozinho todas as tarefas
 - [ ] Programar todas as funcionalidades
-- [ ] Garantir que o Scrum seja entendido e aplicado
+- [x] Garantir que o Scrum seja entendido e aplicado
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Terceira Alternativa: Garantir que o Scrum seja entendido e aplicado.
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Branch é apenas uma ramificação do código, o qual o desenvolvedor pode implementar o que for necessário sem alterar o código principal. Merge é a ação de acoplar as alterações de uma branch em outra, e deve ser analisado com cuidado antes de ser feito, pois um erro dessa branch pode alterar todo o código estável da outra branch.
 ```
 ---
 
@@ -201,5 +201,12 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1 - clonar o repositório remoto para fazer alterações, sejam adições ou correções. para clonar pelo terminal, é necessário realizar o comando 'git clone nome-do-repo.git'.
+2 - entrar na pasta desse repositório, para que consiga realizar as alterações, usando o comando 'cd nome-da-pasta'.
+3 - criar sua própria branch, para que suas alterações sejam feitas separadamente do código principal, usando o comando 'git checkout -b sua-branch'.
+4 - para registrar as alterações, é necessário seguir os comandos: 
+    4.1 'git add suas/alteracoes/nessa/pasta', se necessário repita os comandos em caso de pastas diferentes. para adicionar todas as alterações, execute 'git add .'.
+    4.2 'git commit -m"ação(escopo): descrição da(s) alteração(ões)"'.
+5 - para enviar suas alterações para o servidor, caso elas não estejam registradas é necessário fazer isso primeiro. se já estiverem todas commitadas, utilize o comando 'git pull origin branch-alvo-do-envio'.
 ```
 ---
