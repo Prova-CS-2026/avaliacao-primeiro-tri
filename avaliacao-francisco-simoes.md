@@ -201,5 +201,14 @@ Na resposta:
 
 ```text
 Resposta Questão 16: 
+1. git clone URL_DO_repusitorio // clonando o repusitorio
+2. git branch nome-branch // criando a nova branch
+3. git checkout -b nome-branch // migrando para a branch
+4. git add . // Isso aceita todas as alteraçoes mas pode fazer arquivo por arquvo
+5. git commit -m "msg" //Para o registro das alteraçoes aceitas
+6. git push -u origin nome-branch // para mandar os commits para a rede remota, se a branch não estiver publicada ela sera neste momento
+7. git pull -u origin main/dev //aqui serve para baixar as alteraçoes da branch que vc deseja fazer um pull request, caso tenha a probabilidade de outras branchs ja terem feito o merge
+8. git push -u origin main/dev // aqui o pull request foi feito, e se estiver configurado certo entrara em espera ate ser validado por algum 
+
 ```
 ---
