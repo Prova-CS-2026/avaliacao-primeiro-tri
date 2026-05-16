@@ -84,11 +84,13 @@ Qual alternativa representa corretamente uma História de Usuário?
 
 - [ ] O sistema deverá validar login
 - [ ] Criar endpoint REST
-- [] COMO usuário QUERO autenticar PARA acessar o sistema
+- [x] COMO usuário QUERO autenticar PARA acessar o sistema
 - [ ] Corrigir bug da tela inicial
 
 ```text
 Resposta Questão 6: 
+Histórias de usuários são partes de funcionalidades que representam a interação do usuário com aquela mesma funcionalidade, se a funcionalidade for "Consultar exames marcados" uma história de usuário mostra um contexto de interação do usuário com essa funcionalidade, com uma forma narrativa mostrando o valor, motivação e contextualização não so focando no técnico, seguindo o exemplo "Consultar exames marcados" a HU ficaria 
+"Eu como paciente que utiliza o sistema, quero poder ver os exames anexados ao meu perfil para poder ter um controle e registro".
 
 ```
 ---
@@ -99,7 +101,7 @@ O que é uma branch no Git e qual sua finalidade?
 
 ```text
 Resposta Questão 7: 
-
+Uma Branch é uma linha paralela de desenvolvimento, elas permitem que multiplos desenvolvedores trabalhem com a um mesmo arquivo ou projeto onde cada um faz a sua alteração sem interferir na do outro, e futuramente é possivel "mergear" as alterações unindo as alterações onde cada desenvolvedor estava trabalhando. 
 ```
 ---
 
@@ -109,12 +111,12 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 
 - [ ] atualização
 - [ ] commit final
-- [] feat(login): adiciona autenticação de usuários
+- [x] feat(login): adiciona autenticação de usuários
 - [ ] alteracoes diversas
 
 ```text
 Resposta Questão 8: 
-
+Mensagens de commit bem estruturadas ajudam na rastreabilidade, existe um padrão que utiliza a etsurturação pelo tipo de alteração com uam breve esplicação como a alternativa.
 ```
 ---
 
@@ -133,11 +135,12 @@ Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de
 
 ```text
 Resposta Questão 10: 
-
+O kanban ele permite uma maior organização com o processo de desenvolvimento pois com as colunas e a movimentação das tarefas/HU's é visível de maneira clara para a equipe oque ainda tem que ser feito, oque esta sendo feito, oque esta sendo revisado etc...
 ```
 ---
 
 # Questão 11
+
 
 Qual a finalidade do comando abaixo?
 
