@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: O comando abaixo abre uma branch chamada "minha-branch", criando-a ao mesmo tempo; o comando git checkout minha-branch por si não criaria a branch, caso ela não exista.
 ```
 ---
 
