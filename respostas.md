@@ -1,9 +1,4 @@
 
----
-
-# avaliacao.md
-
-```md
 # Avaliação Teórica — Scrum, Kanban, Git e Gerenciamento de Configuração
 
 Aluno: Murilo Rolim
@@ -19,7 +14,8 @@ Branch: Murilo
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: o processo de desenvolvimento de software engloba tanto falar com o cliente, entender oque é necessario, sepapar o tempo que sera usado, fazer reuniões diarias, pegar tasks, escrever historias de usuario, fazer entregas parciais, realizar mudanças, fazer o cliente entender oque vai ser implementado e oque não vai e porque, etc.
+O processo de criar um software é algo trabalhoso que exig emais do que só codar, exige tambem documentação, consulta, falar com o cliente e desenvolvimento
 ```
 ---
 
@@ -202,10 +198,17 @@ Na resposta:
 ```text
 Resposta Questão 16: 
 
-git clone repositorio
-git checkout -b minha-branch
+1-git clone repositorio (clona o repositorio)
 
+2-git checkout -b minha-branch (cria e troca de branch)
 
+3-fazer uma funcionalidade(codigo)
+
+4-git add .(para adcionar tudo) git add meuArquivo.html(adciona 1 arquivo)
+
+5-git commit -m "feat(meuArquivo.html) adcionei um campo de verificação de login e senha" (salva as mudanças feitas localmente)
+
+6 - git push -u origin minha-branch (manda as mudanças feitas para a branch)
 
 
 ```
