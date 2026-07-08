@@ -91,7 +91,7 @@ Resposta Questão 6: COMO usuário QUERO autenticar PARA acessar o sistema
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7: 
+Resposta Questão 7: Uma branch é uma ramificação dentro do repositório. A finalidade é permitir que o desenvolvedor trabalhe de forma isolada, garantindo que o código principal não seja alterado ou quebrado durante o processo.
 ```
 ---
 
