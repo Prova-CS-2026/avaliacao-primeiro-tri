@@ -183,6 +183,8 @@ Explique a diferença entre merge e branch no Git.
 
 ```text
 Resposta Questão 15: 
+- Branch: É o ato de criar uma ramificação para separar o desenvolvimento de uma tarefa do codigo principal e de outros codigos.
+- Merge: É o processo de mesclar as alterações e o código de uma branch para outra branch.
 ```
 ---
 
