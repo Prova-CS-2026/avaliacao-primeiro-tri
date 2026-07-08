@@ -114,7 +114,7 @@ Resposta Questão 8: feat(login): adiciona autenticação de usuários
 Explique o que é gerenciamento de configuração.
 
 ```text
-Resposta Questão 9: 
+Resposta Questão 9: É a prática de controlar e organizar as mudanças nos artefatos de software, ele garante que a equipe saiba qual versão do sistema está em uso, evita conflitos de código entre desenvolvedores e permite reverter o projeto para um estado anterior se acontecer falhas. 
 ```
 ---
 
