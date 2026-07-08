@@ -159,7 +159,7 @@ Resposta Questão 12: O sistema deverá permitir login apenas com credenciais v�
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Realizar commits frequentes cria um histórico detalhado e rastreável do desenvolvimento, facilita a correção de bugs, reduz o risco de conflitos complexos na hora do merge e permite reverter o código com segurança para um estado recente.
 ```
 ---
 
