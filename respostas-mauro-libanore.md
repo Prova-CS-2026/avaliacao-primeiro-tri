@@ -146,11 +146,11 @@ Qual alternativa representa corretamente um critério de aceitação?
 
 - [ ] Criar tela
 - [ ] Implementar endpoint
-- [ ] O sistema deverá permitir login apenas com credenciais válidas
+- [x] O sistema deverá permitir login apenas com credenciais válidas
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credenciais válidas
 ```
 ---
 
