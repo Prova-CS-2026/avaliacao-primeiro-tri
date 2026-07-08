@@ -136,7 +136,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: Ele cria a branch minha-branch e ja entra nela automaticamente.
 ```
 ---
 
