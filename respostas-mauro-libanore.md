@@ -123,7 +123,8 @@ Resposta Questão 9: É a prática de controlar e organizar as mudanças nos art
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: O Quadro Kanban no desenvolvimento de software, faz possível acompanhar todo o trabalho da equipe ao visualizar o quadro. Consegue ver o andamento das atividades. Além de facilitar a organização das atividades.
+
 ```
 ---
 
