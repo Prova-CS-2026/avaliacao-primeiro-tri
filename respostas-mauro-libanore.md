@@ -66,6 +66,9 @@ Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
 Resposta Questão 5: 
+- Épico: Uma funcionalidade grande que precisa ser dividida em partes para ser desenvolvida, ou seja a Funcionalidade em si.
+- História de Usuário: Uma necessidade do usuário descrita.
+- Tarefa: A atividade necessária para os desenvolvedores implementar.
 ```
 ---
 
