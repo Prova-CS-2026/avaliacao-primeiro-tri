@@ -206,6 +206,15 @@ Na resposta:
 - considere que a branch pode ser criada tanto localmente quanto pela interface do GitHub.
 
 ```text
-Resposta Questão 16: 
+Resposta Questão 16:
+1. git clone url-do-repositorio
+   
+2. git checkout -b repositorio-criado
+   
+3. git add .
+   
+4. git commit -m "...."
+   
+5. git push origin repositorio-criado
 ```
 ---
